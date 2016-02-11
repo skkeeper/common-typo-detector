@@ -14,7 +14,7 @@ var argv = parseArgs(process.argv.slice(2));
 var fileArgs = argv._;
 
 var installDirectory = path.dirname(require.main.filename);
-var typosJson = path.join(installDirectory, 'typos.json');
+var typosJson = path.join(installDirectory, 'presets', `en.json`);
 
 if (typeof argv.typos !== 'undefined') {
   typosJson = argv.typos;
