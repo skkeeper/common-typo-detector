@@ -1,0 +1,7682 @@
+[
+  {
+    "typo": "a a",
+    "correction": "a"
+  },
+  {
+    "typo": "1º posição",
+    "correction": "1ª posição"
+  },
+  {
+    "typo": "2º posição",
+    "correction": "2ª posição"
+  },
+  {
+    "typo": "3º posição",
+    "correction": "3ª posição"
+  },
+  {
+    "typo": "4º posição",
+    "correction": "4ª posição"
+  },
+  {
+    "typo": "5º posição",
+    "correction": "5ª posição"
+  },
+  {
+    "typo": "9º posição",
+    "correction": "9ª posição"
+  },
+  {
+    "typo": "à bordo",
+    "correction": "a bordo"
+  },
+  {
+    "typo": "à cargo",
+    "correction": "a cargo"
+  },
+  {
+    "typo": "à cavalo",
+    "correction": "a cavalo"
+  },
+  {
+    "typo": "à despeito",
+    "correction": "a despeito"
+  },
+  {
+    "typo": "à diversos",
+    "correction": "a diversos"
+  },
+  {
+    "typo": "à diversas",
+    "correction": "a diversas"
+  },
+  {
+    "typo": "à ela",
+    "correction": "a ela"
+  },
+  {
+    "typo": "à elas",
+    "correction": "a elas"
+  },
+  {
+    "typo": "à ele",
+    "correction": "a ele"
+  },
+  {
+    "typo": "à eles",
+    "correction": "a eles"
+  },
+  {
+    "typo": "à essa",
+    "correction": "a essa"
+  },
+  {
+    "typo": "à esse",
+    "correction": "a esse"
+  },
+  {
+    "typo": "à esta",
+    "correction": "a esta"
+  },
+  {
+    "typo": "à este",
+    "correction": "a este"
+  },
+  {
+    "typo": "à fazer",
+    "correction": "a fazer"
+  },
+  {
+    "typo": "à fim",
+    "correction": "a fim"
+  },
+  {
+    "typo": "à fundo",
+    "correction": "a fundo"
+  },
+  {
+    "typo": "à meu",
+    "correction": "a meu"
+  },
+  {
+    "typo": "à mim",
+    "correction": "a mim"
+  },
+  {
+    "typo": "a muito tempo",
+    "correction": "há muito tempo"
+  },
+  {
+    "typo": "à muito tempo",
+    "correction": "há muito tempo"
+  },
+  {
+    "typo": "a nível de",
+    "correction": "em nível de, ao nível de"
+  },
+  {
+    "typo": "à norte",
+    "correction": "a norte"
+  },
+  {
+    "typo": "à nós",
+    "correction": "a nós"
+  },
+  {
+    "typo": "à outros",
+    "correction": "a outros"
+  },
+  {
+    "typo": "à outras",
+    "correction": "a outras"
+  },
+  {
+    "typo": "à partir",
+    "correction": "a partir"
+  },
+  {
+    "typo": "à pé",
+    "correction": "a pé"
+  },
+  {
+    "typo": "à pedido",
+    "correction": "a pedido"
+  },
+  {
+    "typo": "à propósito",
+    "correction": "a propósito"
+  },
+  {
+    "typo": "à respeito",
+    "correction": "a respeito"
+  },
+  {
+    "typo": "à si",
+    "correction": "a si"
+  },
+  {
+    "typo": "à tempo",
+    "correction": "a tempo"
+  },
+  {
+    "typo": "à todos",
+    "correction": "a todos"
+  },
+  {
+    "typo": "à tudo",
+    "correction": "a tudo"
+  },
+  {
+    "typo": "à um",
+    "correction": "a um"
+  },
+  {
+    "typo": "à uma",
+    "correction": "a uma"
+  },
+  {
+    "typo": "à uns",
+    "correction": "a uns"
+  },
+  {
+    "typo": "à vapor",
+    "correction": "a vapor"
+  },
+  {
+    "typo": "bandeija",
+    "correction": "bandeja"
+  },
+  {
+    "typo": "abilidade",
+    "correction": "habilidade"
+  },
+  {
+    "typo": "Abilidades",
+    "correction": "Habilidades"
+  },
+  {
+    "typo": "abitual",
+    "correction": "habitual"
+  },
+  {
+    "typo": "acêrca",
+    "correction": "acerca"
+  },
+  {
+    "typo": "àcerca",
+    "correction": "acerca"
+  },
+  {
+    "typo": "acessiveis",
+    "correction": "acessíveis"
+  },
+  {
+    "typo": "acessivel",
+    "correction": "acessível"
+  },
+  {
+    "typo": "acessor",
+    "correction": "assessor"
+  },
+  {
+    "typo": "acessora",
+    "correction": "assessora"
+  },
+  {
+    "typo": "acessoras",
+    "correction": "assessoras"
+  },
+  {
+    "typo": "acessores",
+    "correction": "assessores"
+  },
+  {
+    "typo": "acessoria",
+    "correction": "assessoria"
+  },
+  {
+    "typo": "acessorio",
+    "correction": "acessório"
+  },
+  {
+    "typo": "acessorios",
+    "correction": "acessórios"
+  },
+  {
+    "typo": "acesssada",
+    "correction": "acessada"
+  },
+  {
+    "typo": "acesssadas",
+    "correction": "acessadas"
+  },
+  {
+    "typo": "acesssado",
+    "correction": "acessado"
+  },
+  {
+    "typo": "acesssados",
+    "correction": "acessados"
+  },
+  {
+    "typo": "açoes",
+    "correction": "acções"
+  },
+  {
+    "typo": "aconselhaveis",
+    "correction": "aconselháveis"
+  },
+  {
+    "typo": "aconselhavel",
+    "correction": "aconselhável"
+  },
+  {
+    "typo": "Açoreana",
+    "correction": "Açoriana"
+  },
+  {
+    "typo": "açoreanas",
+    "correction": "açorianas"
+  },
+  {
+    "typo": "Açoreano",
+    "correction": "Açoriano"
+  },
+  {
+    "typo": "Açoreanos",
+    "correction": "Açorianos"
+  },
+  {
+    "typo": "Acreana",
+    "correction": "Acriana"
+  },
+  {
+    "typo": "acreanas",
+    "correction": "acrianas"
+  },
+  {
+    "typo": "Acreano",
+    "correction": "Acriano"
+  },
+  {
+    "typo": "acreanos",
+    "correction": "acrianos"
+  },
+  {
+    "typo": "actris",
+    "correction": "atriz"
+  },
+  {
+    "typo": "açucar ",
+    "correction": "açúcar"
+  },
+  {
+    "typo": "acustica",
+    "correction": "acústica"
+  },
+  {
+    "typo": "acusticas",
+    "correction": "acústicas"
+  },
+  {
+    "typo": "acustico",
+    "correction": "acústico"
+  },
+  {
+    "typo": "acusticos",
+    "correction": "acústicos"
+  },
+  {
+    "typo": "adimite",
+    "correction": "admite"
+  },
+  {
+    "typo": "adimitir",
+    "correction": "admitir"
+  },
+  {
+    "typo": "adimitiram",
+    "correction": "admitiram"
+  },
+  {
+    "typo": "adimitiu",
+    "correction": "admitiu"
+  },
+  {
+    "typo": "adiquirir",
+    "correction": "adquirir"
+  },
+  {
+    "typo": "adiquiriu",
+    "correction": "adquiriu"
+  },
+  {
+    "typo": "admnistração",
+    "correction": "administração"
+  },
+  {
+    "typo": "admnistrar",
+    "correction": "administrar"
+  },
+  {
+    "typo": "adolescencia",
+    "correction": "adolescência"
+  },
+  {
+    "typo": "Aeronautica",
+    "correction": "Aeronáutica"
+  },
+  {
+    "typo": "Aeronautico",
+    "correction": "Aeronáutico"
+  },
+  {
+    "typo": "aerosol",
+    "correction": "aerossol"
+  },
+  {
+    "typo": "afim",
+    "correction": "a fim"
+  },
+  {
+    "typo": "Africa",
+    "correction": "África"
+  },
+  {
+    "typo": "agencia",
+    "correction": "agência"
+  },
+  {
+    "typo": "agradaveis",
+    "correction": "agradáveis"
+  },
+  {
+    "typo": "agradavel",
+    "correction": "agradável"
+  },
+  {
+    "typo": "agricola",
+    "correction": "agrícola"
+  },
+  {
+    "typo": "agricolas",
+    "correction": "agrícolas"
+  },
+  {
+    "typo": "Agua",
+    "correction": "Água"
+  },
+  {
+    "typo": "Aguas",
+    "correction": "Águas"
+  },
+  {
+    "typo": "aguns",
+    "correction": "alguns"
+  },
+  {
+    "typo": "ajuda-lo",
+    "correction": "ajudá-lo"
+  },
+  {
+    "typo": "aki",
+    "correction": "aqui"
+  },
+  {
+    "typo": "album",
+    "correction": "álbum"
+  },
+  {
+    "typo": "albúm",
+    "correction": "álbum"
+  },
+  {
+    "typo": "albùm",
+    "correction": "álbum"
+  },
+  {
+    "typo": "albums",
+    "correction": "álbuns"
+  },
+  {
+    "typo": "albun",
+    "correction": "álbum"
+  },
+  {
+    "typo": "Albuns",
+    "correction": "Álbuns"
+  },
+  {
+    "typo": "albúns",
+    "correction": "álbuns"
+  },
+  {
+    "typo": "albùns",
+    "correction": "álbuns"
+  },
+  {
+    "typo": "alcolémia",
+    "correction": "alcoolemia"
+  },
+  {
+    "typo": "alcolico",
+    "correction": "alcoólico"
+  },
+  {
+    "typo": "alcólico",
+    "correction": "alcoólico"
+  },
+  {
+    "typo": "alcolicos",
+    "correction": "alcoólicos"
+  },
+  {
+    "typo": "alcólicos",
+    "correction": "alcoólicos"
+  },
+  {
+    "typo": "alcool",
+    "correction": "álcool"
+  },
+  {
+    "typo": "alcóolatra",
+    "correction": "alcoólatra"
+  },
+  {
+    "typo": "Alcoolémia",
+    "correction": "Alcoolemia"
+  },
+  {
+    "typo": "alcoolica",
+    "correction": "alcoólica"
+  },
+  {
+    "typo": "alcóolica",
+    "correction": "alcoólica"
+  },
+  {
+    "typo": "alcoolicas",
+    "correction": "alcoólicas"
+  },
+  {
+    "typo": "alcóolicas",
+    "correction": "alcoólicas"
+  },
+  {
+    "typo": "alcoolico",
+    "correction": "alcoólico"
+  },
+  {
+    "typo": "alcóolico",
+    "correction": "alcoólico"
+  },
+  {
+    "typo": "alcoolicos",
+    "correction": "alcoólicos"
+  },
+  {
+    "typo": "aleatóriamente",
+    "correction": "aleatoriamente"
+  },
+  {
+    "typo": "aleatorios",
+    "correction": "aleatórios"
+  },
+  {
+    "typo": "alem",
+    "correction": "além"
+  },
+  {
+    "typo": "algeriano",
+    "correction": "argelino"
+  },
+  {
+    "typo": "algoritimo",
+    "correction": "algoritmo"
+  },
+  {
+    "typo": "algorítimo",
+    "correction": "algoritmo"
+  },
+  {
+    "typo": "algorítimos",
+    "correction": "algoritmos"
+  },
+  {
+    "typo": "algorítmo",
+    "correction": "algoritmo"
+  },
+  {
+    "typo": "algorítmos",
+    "correction": "algoritmos"
+  },
+  {
+    "typo": "alguem",
+    "correction": "alguém"
+  },
+  {
+    "typo": "algus",
+    "correction": "alguns"
+  },
+  {
+    "typo": "alí",
+    "correction": "ali"
+  },
+  {
+    "typo": "alianca",
+    "correction": "aliança"
+  },
+  {
+    "typo": "altoridade",
+    "correction": "autoridade"
+  },
+  {
+    "typo": "altoridades",
+    "correction": "autoridades"
+  },
+  {
+    "typo": "aluminio",
+    "correction": "alumínio"
+  },
+  {
+    "typo": "Aluminios",
+    "correction": "Alumínios"
+  },
+  {
+    "typo": "amanha",
+    "correction": "amanhã"
+  },
+  {
+    "typo": "amargúra",
+    "correction": "amargura"
+  },
+  {
+    "typo": "amargúria",
+    "correction": "amargura"
+  },
+  {
+    "typo": "ambito",
+    "correction": "âmbito"
+  },
+  {
+    "typo": "Ambulancia",
+    "correction": "Ambulância"
+  },
+  {
+    "typo": "ambulancias",
+    "correction": "ambulâncias"
+  },
+  {
+    "typo": "analiza",
+    "correction": "analisa"
+  },
+  {
+    "typo": "analizado",
+    "correction": "analisado"
+  },
+  {
+    "typo": "analizando",
+    "correction": "analisando"
+  },
+  {
+    "typo": "analizar",
+    "correction": "analisar"
+  },
+  {
+    "typo": "analizarem",
+    "correction": "analisarem"
+  },
+  {
+    "typo": "analizem",
+    "correction": "analisem"
+  },
+  {
+    "typo": "anciosa",
+    "correction": "ansiosa"
+  },
+  {
+    "typo": "anciosamente",
+    "correction": "ansiosamente"
+  },
+  {
+    "typo": "anciosas",
+    "correction": "ansiosas"
+  },
+  {
+    "typo": "ancioso",
+    "correction": "ansioso"
+  },
+  {
+    "typo": "anciosos",
+    "correction": "ansiosos"
+  },
+  {
+    "typo": "anemona",
+    "correction": "anémona"
+  },
+  {
+    "typo": "anemona",
+    "correction": "anémona,anêmona"
+  },
+  {
+    "typo": "anglofona",
+    "correction": "anglófona"
+  },
+  {
+    "typo": "anglofono",
+    "correction": "anglófono"
+  },
+  {
+    "typo": "anglofonos",
+    "correction": "anglófonos"
+  },
+  {
+    "typo": "Angulo",
+    "correction": "Ângulo"
+  },
+  {
+    "typo": "angulos",
+    "correction": "ângulos"
+  },
+  {
+    "typo": "anonimo",
+    "correction": "anónimo, anônimo"
+  },
+  {
+    "typo": "antepôr",
+    "correction": "antepor"
+  },
+  {
+    "typo": "anti aéreo",
+    "correction": "antiaéreo"
+  },
+  {
+    "typo": "anti depressivo",
+    "correction": "antidepressivo"
+  },
+  {
+    "typo": "anti-vírus",
+    "correction": "antivírus"
+  },
+  {
+    "typo": "anuncio",
+    "correction": "anúncio"
+  },
+  {
+    "typo": "ao meu ver",
+    "correction": "a meu ver"
+  },
+  {
+    "typo": "apareçe",
+    "correction": "aparece"
+  },
+  {
+    "typo": "apareçem",
+    "correction": "aparecem"
+  },
+  {
+    "typo": "apareçeu",
+    "correction": "apareceu"
+  },
+  {
+    "typo": "aparencia",
+    "correction": "aparência"
+  },
+  {
+    "typo": "aparencia",
+    "correction": "aparência, aparecia"
+  },
+  {
+    "typo": "aparencias",
+    "correction": "aparências"
+  },
+  {
+    "typo": "apezar",
+    "correction": "apesar"
+  },
+  {
+    "typo": "aplicaçao",
+    "correction": "aplicação"
+  },
+  {
+    "typo": "Aracajú",
+    "correction": "Aracaju"
+  },
+  {
+    "typo": "arco-iris",
+    "correction": "arco-íris"
+  },
+  {
+    "typo": "arcoiris",
+    "correction": "arco-íris"
+  },
+  {
+    "typo": "arcoíris",
+    "correction": "arco-íris"
+  },
+  {
+    "typo": "areas",
+    "correction": "áreas"
+  },
+  {
+    "typo": "argerino",
+    "correction": "argelino"
+  },
+  {
+    "typo": "aristocratica",
+    "correction": "aristocrática"
+  },
+  {
+    "typo": "aristocraticas",
+    "correction": "aristocráticas"
+  },
+  {
+    "typo": "aristocratico",
+    "correction": "aristocrático"
+  },
+  {
+    "typo": "aristocraticos",
+    "correction": "aristocráticos"
+  },
+  {
+    "typo": "aritimética",
+    "correction": "aritmética"
+  },
+  {
+    "typo": "armonia",
+    "correction": "harmonia"
+  },
+  {
+    "typo": "arquipelago",
+    "correction": "arquipélago"
+  },
+  {
+    "typo": "arquipelagos",
+    "correction": "arquipélagos"
+  },
+  {
+    "typo": "arquipelogo",
+    "correction": "arquipélago"
+  },
+  {
+    "typo": "artistica",
+    "correction": "artística"
+  },
+  {
+    "typo": "artisticas",
+    "correction": "artísticas"
+  },
+  {
+    "typo": "artistico",
+    "correction": "artístico"
+  },
+  {
+    "typo": "artisticos",
+    "correction": "artísticos"
+  },
+  {
+    "typo": "as sua",
+    "correction": "as suas"
+  },
+  {
+    "typo": "ascençao",
+    "correction": "ascensão"
+  },
+  {
+    "typo": "Ascenção",
+    "correction": "Ascensão"
+  },
+  {
+    "typo": "ascensao",
+    "correction": "ascensão"
+  },
+  {
+    "typo": "Asia",
+    "correction": "Ásia"
+  },
+  {
+    "typo": "asiatica",
+    "correction": "asiática"
+  },
+  {
+    "typo": "asim",
+    "correction": "assim"
+  },
+  {
+    "typo": "assasinado",
+    "correction": "assassinado"
+  },
+  {
+    "typo": "assasinato",
+    "correction": "assassinato"
+  },
+  {
+    "typo": "assasinatos",
+    "correction": "assassinatos"
+  },
+  {
+    "typo": "assasino",
+    "correction": "assassino"
+  },
+  {
+    "typo": "Assasinos",
+    "correction": "Assassinos"
+  },
+  {
+    "typo": "Assembléia",
+    "correction": "Assembleia"
+  },
+  {
+    "typo": "Assembléias",
+    "correction": "Assembleias"
+  },
+  {
+    "typo": "assistencia",
+    "correction": "assistência"
+  },
+  {
+    "typo": "associção",
+    "correction": "associação"
+  },
+  {
+    "typo": "aste",
+    "correction": "haste"
+  },
+  {
+    "typo": "ateismo",
+    "correction": "ateísmo"
+  },
+  {
+    "typo": "aterisagem",
+    "correction": "aterrissagem"
+  },
+  {
+    "typo": "aterissagem",
+    "correction": "aterrissagem"
+  },
+  {
+    "typo": "aterrisagem",
+    "correction": "aterrissagem"
+  },
+  {
+    "typo": "aterrizagem",
+    "correction": "aterrissagem"
+  },
+  {
+    "typo": "atras",
+    "correction": "atrás"
+  },
+  {
+    "typo": "atraves",
+    "correction": "através"
+  },
+  {
+    "typo": "atravez",
+    "correction": "através"
+  },
+  {
+    "typo": "atravéz",
+    "correction": "através"
+  },
+  {
+    "typo": "atraz",
+    "correction": "atrás"
+  },
+  {
+    "typo": "atráz",
+    "correction": "atrás"
+  },
+  {
+    "typo": "atribuida",
+    "correction": "atribuída"
+  },
+  {
+    "typo": "atríbuida",
+    "correction": "atribuída"
+  },
+  {
+    "typo": "atribuidas",
+    "correction": "atribuídas"
+  },
+  {
+    "typo": "atribuido",
+    "correction": "atribuído"
+  },
+  {
+    "typo": "atríbuido",
+    "correction": "atribuído"
+  },
+  {
+    "typo": "atribuidos",
+    "correction": "atribuídos"
+  },
+  {
+    "typo": "atris",
+    "correction": "atriz, actriz, atris"
+  },
+  {
+    "typo": "audiencia",
+    "correction": "audiência"
+  },
+  {
+    "typo": "audiencias",
+    "correction": "audiências"
+  },
+  {
+    "typo": "ausencia",
+    "correction": "ausência"
+  },
+  {
+    "typo": "ausencias",
+    "correction": "ausências"
+  },
+  {
+    "typo": "autentica",
+    "correction": "autêntica"
+  },
+  {
+    "typo": "autenticas",
+    "correction": "autênticas"
+  },
+  {
+    "typo": "autentico",
+    "correction": "autêntico"
+  },
+  {
+    "typo": "autenticos",
+    "correction": "autênticos"
+  },
+  {
+    "typo": "auto-biografia",
+    "correction": "autobiografia"
+  },
+  {
+    "typo": "auto-biografias",
+    "correction": "autobiografias"
+  },
+  {
+    "typo": "auto-biográfica",
+    "correction": "autobiográfica"
+  },
+  {
+    "typo": "auto-biográfico",
+    "correction": "autobiográfico"
+  },
+  {
+    "typo": "automáticamente",
+    "correction": "automaticamente"
+  },
+  {
+    "typo": "automoveis",
+    "correction": "automóveis"
+  },
+  {
+    "typo": "automovel",
+    "correction": "automóvel"
+  },
+  {
+    "typo": "autonoma",
+    "correction": "autónoma, autônoma"
+  },
+  {
+    "typo": "autonomas",
+    "correction": "autónomas, autônomas"
+  },
+  {
+    "typo": "autonomo",
+    "correction": "autónomo, autônomo"
+  },
+  {
+    "typo": "autonomos",
+    "correction": "autónomos, autônomos"
+  },
+  {
+    "typo": "autopsia",
+    "correction": "autópsia"
+  },
+  {
+    "typo": "Autoretrato",
+    "correction": "Autorretrato"
+  },
+  {
+    "typo": "aver",
+    "correction": "haver"
+  },
+  {
+    "typo": "aviacao",
+    "correction": "aviação"
+  },
+  {
+    "typo": "aviacão",
+    "correction": "aviação"
+  },
+  {
+    "typo": "aviao",
+    "correction": "avião"
+  },
+  {
+    "typo": "aviasão",
+    "correction": "aviação"
+  },
+  {
+    "typo": "avogrado",
+    "correction": "Avogadro"
+  },
+  {
+    "typo": "avulsso",
+    "correction": "avulso"
+  },
+  {
+    "typo": "azaléia",
+    "correction": "azaléa"
+  },
+  {
+    "typo": "Azaléia",
+    "correction": "Azálea"
+  },
+  {
+    "typo": "azas",
+    "correction": "asas"
+  },
+  {
+    "typo": "Bahiana",
+    "correction": "Baiana"
+  },
+  {
+    "typo": "Bahiano",
+    "correction": "Baiano"
+  },
+  {
+    "typo": "bahianos",
+    "correction": "baianos"
+  },
+  {
+    "typo": "Baínha",
+    "correction": "Bainha"
+  },
+  {
+    "typo": "baínhas",
+    "correction": "bainhas"
+  },
+  {
+    "typo": "banca-rota",
+    "correction": "bancarrota"
+  },
+  {
+    "typo": "banca-rrota",
+    "correction": "bancarrota"
+  },
+  {
+    "typo": "bancarota",
+    "correction": "bancarrota"
+  },
+  {
+    "typo": "Barbarie",
+    "correction": "Barbárie"
+  },
+  {
+    "typo": "barbaries",
+    "correction": "barbáries"
+  },
+  {
+    "typo": "bastate",
+    "correction": "bastante"
+  },
+  {
+    "typo": "Bavaria",
+    "correction": "Baviera"
+  },
+  {
+    "typo": "Bavária",
+    "correction": "Baviera"
+  },
+  {
+    "typo": "bébe",
+    "correction": "bebé"
+  },
+  {
+    "typo": "bébé",
+    "correction": "bebé"
+  },
+  {
+    "typo": "bébes",
+    "correction": "bebés"
+  },
+  {
+    "typo": "bébés",
+    "correction": "bebés"
+  },
+  {
+    "typo": "beige",
+    "correction": "bege"
+  },
+  {
+    "typo": "beiges",
+    "correction": "beges"
+  },
+  {
+    "typo": "beije",
+    "correction": "bege"
+  },
+  {
+    "typo": "beijes",
+    "correction": "beges"
+  },
+  {
+    "typo": "bem vindo",
+    "correction": "bem-vindo"
+  },
+  {
+    "typo": "benção",
+    "correction": "bênção"
+  },
+  {
+    "typo": "bençãos",
+    "correction": "bênçãos"
+  },
+  {
+    "typo": "beneficencia",
+    "correction": "beneficência"
+  },
+  {
+    "typo": "Beneficiente",
+    "correction": "Beneficente"
+  },
+  {
+    "typo": "beneficio",
+    "correction": "benefício"
+  },
+  {
+    "typo": "beneficios",
+    "correction": "benefícios"
+  },
+  {
+    "typo": "benvindo",
+    "correction": "bem-vindo"
+  },
+  {
+    "typo": "Bertold Brecht",
+    "correction": "Bertolt Brecht"
+  },
+  {
+    "typo": "bevocar",
+    "correction": "invocar"
+  },
+  {
+    "typo": "bi-campeão",
+    "correction": "bicampeão"
+  },
+  {
+    "typo": "bibliografica",
+    "correction": "bibliográfica"
+  },
+  {
+    "typo": "bibliograficas",
+    "correction": "bibliográficas"
+  },
+  {
+    "typo": "bibliografico",
+    "correction": "bibliográfico"
+  },
+  {
+    "typo": "bibliograficos",
+    "correction": "bibliográficos"
+  },
+  {
+    "typo": "biografica",
+    "correction": "biográfica"
+  },
+  {
+    "typo": "biograficas",
+    "correction": "biográficas"
+  },
+  {
+    "typo": "Biografico",
+    "correction": "Biográfico"
+  },
+  {
+    "typo": "biograficos",
+    "correction": "biográficos"
+  },
+  {
+    "typo": "biograifa",
+    "correction": "biografia"
+  },
+  {
+    "typo": "biograifas",
+    "correction": "biografias"
+  },
+  {
+    "typo": "biópsia",
+    "correction": "biopsia"
+  },
+  {
+    "typo": "biópsias",
+    "correction": "biopsias"
+  },
+  {
+    "typo": "boas vindas",
+    "correction": "Boas-vindas"
+  },
+  {
+    "typo": "boeiro",
+    "correction": "bueiro"
+  },
+  {
+    "typo": "borburinho",
+    "correction": "burburinho"
+  },
+  {
+    "typo": "bordero",
+    "correction": "borderô"
+  },
+  {
+    "typo": "brasao",
+    "correction": "brasão"
+  },
+  {
+    "typo": "Brasilia",
+    "correction": "Brasília"
+  },
+  {
+    "typo": "Brazão",
+    "correction": "Brasão"
+  },
+  {
+    "typo": "Brazil",
+    "correction": "Brasil"
+  },
+  {
+    "typo": "britanico",
+    "correction": "britânico"
+  },
+  {
+    "typo": "burborinho",
+    "correction": "burburinho"
+  },
+  {
+    "typo": "bussula",
+    "correction": "bússola"
+  },
+  {
+    "typo": "cabeca",
+    "correction": "cabeça"
+  },
+  {
+    "typo": "cabecas",
+    "correction": "cabeças"
+  },
+  {
+    "typo": "cabelereiro",
+    "correction": "cabeleireiro"
+  },
+  {
+    "typo": "cadaço",
+    "correction": "cadarço"
+  },
+  {
+    "typo": "caido",
+    "correction": "caído"
+  },
+  {
+    "typo": "caiem",
+    "correction": "caem"
+  },
+  {
+    "typo": "calsado",
+    "correction": "calçado"
+  },
+  {
+    "typo": "calvice",
+    "correction": "calvície"
+  },
+  {
+    "typo": "calvíce",
+    "correction": "calvície"
+  },
+  {
+    "typo": "camara",
+    "correction": "câmara"
+  },
+  {
+    "typo": "cambio",
+    "correction": "câmbio"
+  },
+  {
+    "typo": "cambios",
+    "correction": "câmbios"
+  },
+  {
+    "typo": "camera",
+    "correction": "câmera"
+  },
+  {
+    "typo": "camêra",
+    "correction": "câmera"
+  },
+  {
+    "typo": "camêras",
+    "correction": "câmeras"
+  },
+  {
+    "typo": "caminhoes",
+    "correction": "caminhões, camiões"
+  },
+  {
+    "typo": "camioes",
+    "correction": "camiões, caminhões"
+  },
+  {
+    "typo": "campeao",
+    "correction": "campeão"
+  },
+  {
+    "typo": "campeoes",
+    "correction": "campeões"
+  },
+  {
+    "typo": "campiao",
+    "correction": "campeão"
+  },
+  {
+    "typo": "campião",
+    "correction": "campeão"
+  },
+  {
+    "typo": "campioes",
+    "correction": "campeões"
+  },
+  {
+    "typo": "campiões",
+    "correction": "campeões"
+  },
+  {
+    "typo": "Campionato",
+    "correction": "Campeonato"
+  },
+  {
+    "typo": "campionatos",
+    "correction": "campeonatos"
+  },
+  {
+    "typo": "cançao",
+    "correction": "canção"
+  },
+  {
+    "typo": "cansão",
+    "correction": "canção"
+  },
+  {
+    "typo": "Capitão Mor",
+    "correction": "capitão-mor"
+  },
+  {
+    "typo": "capitulo",
+    "correction": "capítulo"
+  },
+  {
+    "typo": "capitulos",
+    "correction": "capítulos"
+  },
+  {
+    "typo": "caracteristica",
+    "correction": "característica"
+  },
+  {
+    "typo": "caracteristicas",
+    "correction": "características"
+  },
+  {
+    "typo": "caracteristico",
+    "correction": "característico"
+  },
+  {
+    "typo": "caracteristicos",
+    "correction": "característicos"
+  },
+  {
+    "typo": "carissimo",
+    "correction": "caríssimo"
+  },
+  {
+    "typo": "cassar",
+    "correction": "caçar, casar, cassar"
+  },
+  {
+    "typo": "Castanheira de Pêra",
+    "correction": "Castanheira de Pera"
+  },
+  {
+    "typo": "catalizada",
+    "correction": "catalisada"
+  },
+  {
+    "typo": "catalizador",
+    "correction": "catalisador"
+  },
+  {
+    "typo": "catalogo",
+    "correction": "catálogo"
+  },
+  {
+    "typo": "catalogos",
+    "correction": "catálogos"
+  },
+  {
+    "typo": "catequisador",
+    "correction": "catequizador"
+  },
+  {
+    "typo": "catequisar",
+    "correction": "catequizar"
+  },
+  {
+    "typo": "cazamento",
+    "correction": "casamento"
+  },
+  {
+    "typo": "cazar",
+    "correction": "casar"
+  },
+  {
+    "typo": "cazara",
+    "correction": "casara"
+  },
+  {
+    "typo": "cazaram",
+    "correction": "casaram"
+  },
+  {
+    "typo": "cazou",
+    "correction": "casou"
+  },
+  {
+    "typo": "CD's",
+    "correction": "CDs"
+  },
+  {
+    "typo": "ceara",
+    "correction": "Ceará"
+  },
+  {
+    "typo": "celebro",
+    "correction": "cérebro"
+  },
+  {
+    "typo": "célula tronco",
+    "correction": "célula-tronco"
+  },
+  {
+    "typo": "celula",
+    "correction": "célula"
+  },
+  {
+    "typo": "células tronco",
+    "correction": "células-tronco"
+  },
+  {
+    "typo": "celulas",
+    "correction": "células"
+  },
+  {
+    "typo": "cemiterio",
+    "correction": "cemitério"
+  },
+  {
+    "typo": "Cemiterios",
+    "correction": "Cemitérios"
+  },
+  {
+    "typo": "cenario",
+    "correction": "cenário"
+  },
+  {
+    "typo": "cenarios",
+    "correction": "cenários"
+  },
+  {
+    "typo": "cerebro",
+    "correction": "cérebro"
+  },
+  {
+    "typo": "cerébro",
+    "correction": "cérebro"
+  },
+  {
+    "typo": "cerebros",
+    "correction": "cérebros"
+  },
+  {
+    "typo": "chamda",
+    "correction": "chamada"
+  },
+  {
+    "typo": "chamdo",
+    "correction": "chamado"
+  },
+  {
+    "typo": "Chopp",
+    "correction": "Chope"
+  },
+  {
+    "typo": "ciclano",
+    "correction": "sicrano"
+  },
+  {
+    "typo": "cidadães",
+    "correction": "cidadãos"
+  },
+  {
+    "typo": "cidadões",
+    "correction": "cidadãos"
+  },
+  {
+    "typo": "ciencia",
+    "correction": "ciência"
+  },
+  {
+    "typo": "Ciencias",
+    "correction": "Ciências"
+  },
+  {
+    "typo": "cientifica",
+    "correction": "científica"
+  },
+  {
+    "typo": "cientificas",
+    "correction": "científicas"
+  },
+  {
+    "typo": "cientifico",
+    "correction": "científico"
+  },
+  {
+    "typo": "cientificos",
+    "correction": "científicos"
+  },
+  {
+    "typo": "circulo",
+    "correction": "círculo"
+  },
+  {
+    "typo": "circulos",
+    "correction": "círculos"
+  },
+  {
+    "typo": "classica",
+    "correction": "clássica"
+  },
+  {
+    "typo": "classicas",
+    "correction": "clássicas"
+  },
+  {
+    "typo": "classico",
+    "correction": "clássico"
+  },
+  {
+    "typo": "classicos",
+    "correction": "clássicos"
+  },
+  {
+    "typo": "clinica",
+    "correction": "clínica"
+  },
+  {
+    "typo": "cms",
+    "correction": "cm"
+  },
+  {
+    "typo": "co-habitação",
+    "correction": "coabitação"
+  },
+  {
+    "typo": "coalisão",
+    "correction": "coalizão"
+  },
+  {
+    "typo": "côco",
+    "correction": "coco"
+  },
+  {
+    "typo": "coerencia",
+    "correction": "coerência"
+  },
+  {
+    "typo": "coerencias",
+    "correction": "coerências"
+  },
+  {
+    "typo": "cohabitação",
+    "correction": "coabitação"
+  },
+  {
+    "typo": "coletanea",
+    "correction": "coletânea"
+  },
+  {
+    "typo": "coletaneas",
+    "correction": "coletâneas"
+  },
+  {
+    "typo": "coletânia",
+    "correction": "coletânea"
+  },
+  {
+    "typo": "coletânias",
+    "correction": "coletâneas"
+  },
+  {
+    "typo": "comcerteza",
+    "correction": "com certeza"
+  },
+  {
+    "typo": "Comeca",
+    "correction": "Começa"
+  },
+  {
+    "typo": "comecam",
+    "correction": "começam"
+  },
+  {
+    "typo": "comecar",
+    "correction": "começar"
+  },
+  {
+    "typo": "comecou",
+    "correction": "começou"
+  },
+  {
+    "typo": "comedia",
+    "correction": "comédia"
+  },
+  {
+    "typo": "comercio",
+    "correction": "comércio"
+  },
+  {
+    "typo": "comercios",
+    "correction": "comércios"
+  },
+  {
+    "typo": "comisão",
+    "correction": "comissão"
+  },
+  {
+    "typo": "comisoes",
+    "correction": "comissões"
+  },
+  {
+    "typo": "comisões",
+    "correction": "comissões"
+  },
+  {
+    "typo": "comissao",
+    "correction": "comissão"
+  },
+  {
+    "typo": "comnosco",
+    "correction": "connosco"
+  },
+  {
+    "typo": "compania",
+    "correction": "companhia"
+  },
+  {
+    "typo": "companias",
+    "correction": "companhias"
+  },
+  {
+    "typo": "competencia",
+    "correction": "competência"
+  },
+  {
+    "typo": "competicão",
+    "correction": "competição"
+  },
+  {
+    "typo": "compôr",
+    "correction": "compor"
+  },
+  {
+    "typo": "comporam",
+    "correction": "compuseram"
+  },
+  {
+    "typo": "compreenção",
+    "correction": "compreensão"
+  },
+  {
+    "typo": "compreenções",
+    "correction": "compreensões"
+  },
+  {
+    "typo": "compreenssão",
+    "correction": "compreensão"
+  },
+  {
+    "typo": "compreenssões",
+    "correction": "compreensões"
+  },
+  {
+    "typo": "concerteza",
+    "correction": "com certeza"
+  },
+  {
+    "typo": "conciderada",
+    "correction": "considerada"
+  },
+  {
+    "typo": "concideradas",
+    "correction": "consideradas"
+  },
+  {
+    "typo": "conciderado",
+    "correction": "considerado"
+  },
+  {
+    "typo": "conciderados",
+    "correction": "considerados"
+  },
+  {
+    "typo": "conclue",
+    "correction": "conclui"
+  },
+  {
+    "typo": "concluíndo",
+    "correction": "concluindo"
+  },
+  {
+    "typo": "concluíu",
+    "correction": "concluiu"
+  },
+  {
+    "typo": "concretisar",
+    "correction": "concretizar"
+  },
+  {
+    "typo": "condicao",
+    "correction": "condição"
+  },
+  {
+    "typo": "condiçao",
+    "correction": "condição"
+  },
+  {
+    "typo": "condissao",
+    "correction": "condição"
+  },
+  {
+    "typo": "condissão",
+    "correction": "condição"
+  },
+  {
+    "typo": "conecção",
+    "correction": "conexão"
+  },
+  {
+    "typo": "conecções",
+    "correction": "conexões"
+  },
+  {
+    "typo": "confudir",
+    "correction": "confundir"
+  },
+  {
+    "typo": "conseguírem",
+    "correction": "conseguirem"
+  },
+  {
+    "typo": "consite",
+    "correction": "consiste"
+  },
+  {
+    "typo": "constituia",
+    "correction": "constituía"
+  },
+  {
+    "typo": "constituiam",
+    "correction": "constituíam"
+  },
+  {
+    "typo": "constituiram",
+    "correction": "constituíram"
+  },
+  {
+    "typo": "constroi",
+    "correction": "constrói"
+  },
+  {
+    "typo": "construcao",
+    "correction": "construção"
+  },
+  {
+    "typo": "construia",
+    "correction": "construía"
+  },
+  {
+    "typo": "construida",
+    "correction": "construída"
+  },
+  {
+    "typo": "construidas",
+    "correction": "construídas"
+  },
+  {
+    "typo": "construido",
+    "correction": "construído"
+  },
+  {
+    "typo": "construidos",
+    "correction": "construído"
+  },
+  {
+    "typo": "construidos",
+    "correction": "construídos"
+  },
+  {
+    "typo": "contemporaneo",
+    "correction": "contemporâneo"
+  },
+  {
+    "typo": "contemporaneos",
+    "correction": "contemporâneos"
+  },
+  {
+    "typo": "continar",
+    "correction": "continuar"
+  },
+  {
+    "typo": "continou",
+    "correction": "continuou"
+  },
+  {
+    "typo": "contratato",
+    "correction": "contratado"
+  },
+  {
+    "typo": "contribue",
+    "correction": "contribui"
+  },
+  {
+    "typo": "contribuiram",
+    "correction": "contribuíram"
+  },
+  {
+    "typo": "contrução",
+    "correction": "construção"
+  },
+  {
+    "typo": "contruída",
+    "correction": "construída"
+  },
+  {
+    "typo": "contruido",
+    "correction": "construído"
+  },
+  {
+    "typo": "contruído",
+    "correction": "construído"
+  },
+  {
+    "typo": "contruídos",
+    "correction": "construídos"
+  },
+  {
+    "typo": "contruir",
+    "correction": "construir"
+  },
+  {
+    "typo": "converçao",
+    "correction": "conversão"
+  },
+  {
+    "typo": "converção",
+    "correction": "conversão"
+  },
+  {
+    "typo": "conversao",
+    "correction": "conversão"
+  },
+  {
+    "typo": "converssão",
+    "correction": "conversão"
+  },
+  {
+    "typo": "convidade",
+    "correction": "convidado"
+  },
+  {
+    "typo": "Copenhagen",
+    "correction": "Copenhague"
+  },
+  {
+    "typo": "côr",
+    "correction": "cor"
+  },
+  {
+    "typo": "corçario",
+    "correction": "corsário"
+  },
+  {
+    "typo": "côres",
+    "correction": "cores"
+  },
+  {
+    "typo": "corinthiana",
+    "correction": "corintiana"
+  },
+  {
+    "typo": "corinthiano",
+    "correction": "corintiano"
+  },
+  {
+    "typo": "corinthianos",
+    "correction": "corintianos"
+  },
+  {
+    "typo": "cornea",
+    "correction": "córnea"
+  },
+  {
+    "typo": "corneas",
+    "correction": "córneas"
+  },
+  {
+    "typo": "corografico",
+    "correction": "corográfico"
+  },
+  {
+    "typo": "corograficos",
+    "correction": "corográficos"
+  },
+  {
+    "typo": "correiro eletronico",
+    "correction": "correio electrónico, correio eletrônico"
+  },
+  {
+    "typo": "corrijiam",
+    "correction": "corrigiam"
+  },
+  {
+    "typo": "corrijir",
+    "correction": "corrigir"
+  },
+  {
+    "typo": "corrijiram",
+    "correction": "corrigiram"
+  },
+  {
+    "typo": "crâneo",
+    "correction": "crânio"
+  },
+  {
+    "typo": "crâneos",
+    "correction": "crânios"
+  },
+  {
+    "typo": "creação",
+    "correction": "criação"
+  },
+  {
+    "typo": "criaça",
+    "correction": "criança"
+  },
+  {
+    "typo": "criacao",
+    "correction": "criação"
+  },
+  {
+    "typo": "criaçao",
+    "correction": "criação"
+  },
+  {
+    "typo": "criaças",
+    "correction": "crianças"
+  },
+  {
+    "typo": "crianca",
+    "correction": "criança"
+  },
+  {
+    "typo": "criancas",
+    "correction": "crianças"
+  },
+  {
+    "typo": "cristianizacao",
+    "correction": "cristianização"
+  },
+  {
+    "typo": "cristianizacão",
+    "correction": "cristianização"
+  },
+  {
+    "typo": "cristianizacoes",
+    "correction": "cristianizações"
+  },
+  {
+    "typo": "cristianizacões",
+    "correction": "cristianizações"
+  },
+  {
+    "typo": "criticas",
+    "correction": "críticas"
+  },
+  {
+    "typo": "critícas",
+    "correction": "críticas"
+  },
+  {
+    "typo": "criticos",
+    "correction": "críticos"
+  },
+  {
+    "typo": "critícos",
+    "correction": "críticos"
+  },
+  {
+    "typo": "cronológicamente",
+    "correction": "cronologicamente"
+  },
+  {
+    "typo": "crueis",
+    "correction": "cruéis"
+  },
+  {
+    "typo": "cujo o",
+    "correction": "cujo"
+  },
+  {
+    "typo": "cuja a",
+    "correction": "cuja"
+  },
+  {
+    "typo": "cujos os",
+    "correction": "cujos"
+  },
+  {
+    "typo": "cujas as",
+    "correction": "cujas"
+  },
+  {
+    "typo": "culinaria",
+    "correction": "culinária"
+  },
+  {
+    "typo": "custuma",
+    "correction": "costuma"
+  },
+  {
+    "typo": "custumava",
+    "correction": "costumava"
+  },
+  {
+    "typo": "custumavam",
+    "correction": "costumavam"
+  },
+  {
+    "typo": "custume",
+    "correction": "costume"
+  },
+  {
+    "typo": "custumes",
+    "correction": "costumes"
+  },
+  {
+    "typo": "da seu",
+    "correction": "dá seu"
+  },
+  {
+    "typo": "da seu",
+    "correction": "do seu"
+  },
+  {
+    "typo": "da-se",
+    "correction": "dá-se"
+  },
+  {
+    "typo": "das seus",
+    "correction": "dos seus"
+  },
+  {
+    "typo": "de encontro ao",
+    "correction": "ao encontro do"
+  },
+  {
+    "typo": "decada",
+    "correction": "década"
+  },
+  {
+    "typo": "decadas",
+    "correction": "décadas"
+  },
+  {
+    "typo": "decadencia",
+    "correction": "decadência"
+  },
+  {
+    "typo": "decadencias",
+    "correction": "decadências"
+  },
+  {
+    "typo": "decer",
+    "correction": "descer"
+  },
+  {
+    "typo": "deceram",
+    "correction": "desceram"
+  },
+  {
+    "typo": "declinio",
+    "correction": "declínio"
+  },
+  {
+    "typo": "declinios",
+    "correction": "declínios"
+  },
+  {
+    "typo": "defeniçao",
+    "correction": "definição"
+  },
+  {
+    "typo": "defenição",
+    "correction": "definição"
+  },
+  {
+    "typo": "defenições",
+    "correction": "definições"
+  },
+  {
+    "typo": "defenido",
+    "correction": "definido"
+  },
+  {
+    "typo": "defenir",
+    "correction": "definir"
+  },
+  {
+    "typo": "definitamente",
+    "correction": "definitivamente"
+  },
+  {
+    "typo": "deichar",
+    "correction": "deixar"
+  },
+  {
+    "typo": "deiche",
+    "correction": "deixe"
+  },
+  {
+    "typo": "deisponiveis",
+    "correction": "disponíveis"
+  },
+  {
+    "typo": "deisponivel",
+    "correction": "disponível"
+  },
+  {
+    "typo": "democratica",
+    "correction": "democrática"
+  },
+  {
+    "typo": "demonio",
+    "correction": "demónio, demônio"
+  },
+  {
+    "typo": "demonios",
+    "correction": "demónios, demônios"
+  },
+  {
+    "typo": "denovo",
+    "correction": "de novo"
+  },
+  {
+    "typo": "depedente",
+    "correction": "dependente"
+  },
+  {
+    "typo": "depedentes",
+    "correction": "dependentes"
+  },
+  {
+    "typo": "deposito",
+    "correction": "depósito"
+  },
+  {
+    "typo": "depositos",
+    "correction": "depósitos"
+  },
+  {
+    "typo": "derepente",
+    "correction": "de repente"
+  },
+  {
+    "typo": "derrepente",
+    "correction": "de repente"
+  },
+  {
+    "typo": "desagradaveis",
+    "correction": "desagradáveis"
+  },
+  {
+    "typo": "desagradavel",
+    "correction": "desagradável"
+  },
+  {
+    "typo": "descubre",
+    "correction": "descobre"
+  },
+  {
+    "typo": "descubrimento",
+    "correction": "descobrimento"
+  },
+  {
+    "typo": "descubrimentos",
+    "correction": "descobrimentos"
+  },
+  {
+    "typo": "descubrir",
+    "correction": "descobrir"
+  },
+  {
+    "typo": "descubriram",
+    "correction": "descobriram"
+  },
+  {
+    "typo": "descubrire",
+    "correction": "descobrire"
+  },
+  {
+    "typo": "deseçeis",
+    "correction": "dezesseis"
+  },
+  {
+    "typo": "desembro",
+    "correction": "Dezembro"
+  },
+  {
+    "typo": "desesseis",
+    "correction": "dezesseis"
+  },
+  {
+    "typo": "desnecessario",
+    "correction": "desnecessário"
+  },
+  {
+    "typo": "despensaveis",
+    "correction": "dispensáveis"
+  },
+  {
+    "typo": "despensáveis",
+    "correction": "dispensáveis"
+  },
+  {
+    "typo": "despensavel",
+    "correction": "dispensável"
+  },
+  {
+    "typo": "despensável",
+    "correction": "dispensável"
+  },
+  {
+    "typo": "despois",
+    "correction": "depois"
+  },
+  {
+    "typo": "desprotejida",
+    "correction": "desprotegida"
+  },
+  {
+    "typo": "desprotejidas",
+    "correction": "desprotegidas"
+  },
+  {
+    "typo": "desprotejido",
+    "correction": "desprotegido"
+  },
+  {
+    "typo": "desprotejidos",
+    "correction": "desprotegidos"
+  },
+  {
+    "typo": "destroi",
+    "correction": "destrói"
+  },
+  {
+    "typo": "destruida",
+    "correction": "destruída"
+  },
+  {
+    "typo": "destruidas",
+    "correction": "destruídas"
+  },
+  {
+    "typo": "destruido",
+    "correction": "destruído"
+  },
+  {
+    "typo": "destruidos",
+    "correction": "destruídos"
+  },
+  {
+    "typo": "devocao",
+    "correction": "devoção"
+  },
+  {
+    "typo": "devocão",
+    "correction": "devoção"
+  },
+  {
+    "typo": "devoçao",
+    "correction": "devoção"
+  },
+  {
+    "typo": "diagnostico",
+    "correction": "diagnóstico"
+  },
+  {
+    "typo": "diagnosticos",
+    "correction": "diagnósticos"
+  },
+  {
+    "typo": "diaria",
+    "correction": "diária"
+  },
+  {
+    "typo": "diáriamente",
+    "correction": "diariamente"
+  },
+  {
+    "typo": "diario",
+    "correction": "diário"
+  },
+  {
+    "typo": "dibre",
+    "correction": "drible"
+  },
+  {
+    "typo": "diferencas",
+    "correction": "diferenças"
+  },
+  {
+    "typo": "díficeis",
+    "correction": "difíceis"
+  },
+  {
+    "typo": "dificil",
+    "correction": "difícil"
+  },
+  {
+    "typo": "díficil",
+    "correction": "difícil"
+  },
+  {
+    "typo": "dificulidade",
+    "correction": "dificuldade"
+  },
+  {
+    "typo": "difrentes",
+    "correction": "diferentes"
+  },
+  {
+    "typo": "difusao",
+    "correction": "difusão"
+  },
+  {
+    "typo": "dignatária",
+    "correction": "dignitária"
+  },
+  {
+    "typo": "dignatárias",
+    "correction": "dignitárias"
+  },
+  {
+    "typo": "dignatário",
+    "correction": "dignitário"
+  },
+  {
+    "typo": "dignatários",
+    "correction": "dignitários"
+  },
+  {
+    "typo": "dijita",
+    "correction": "digita"
+  },
+  {
+    "typo": "dijitar",
+    "correction": "digitar"
+  },
+  {
+    "typo": "dijitara",
+    "correction": "digitara"
+  },
+  {
+    "typo": "dijitaram",
+    "correction": "digitaram"
+  },
+  {
+    "typo": "dijitou",
+    "correction": "digitou"
+  },
+  {
+    "typo": "diminue",
+    "correction": "diminui"
+  },
+  {
+    "typo": "dinamico",
+    "correction": "dinâmico"
+  },
+  {
+    "typo": "dirgido",
+    "correction": "dirigido"
+  },
+  {
+    "typo": "discuções",
+    "correction": "discussões"
+  },
+  {
+    "typo": "discursão",
+    "correction": "discussão"
+  },
+  {
+    "typo": "discursso",
+    "correction": "discurso"
+  },
+  {
+    "typo": "dispender",
+    "correction": "despender"
+  },
+  {
+    "typo": "dispenderam",
+    "correction": "despenderam"
+  },
+  {
+    "typo": "dispendio",
+    "correction": "dispêndio"
+  },
+  {
+    "typo": "dispendios",
+    "correction": "dispêndios"
+  },
+  {
+    "typo": "dispensaveis",
+    "correction": "dispensáveis"
+  },
+  {
+    "typo": "dispensavel",
+    "correction": "dispensável"
+  },
+  {
+    "typo": "disponiveis",
+    "correction": "disponíveis"
+  },
+  {
+    "typo": "disponivel",
+    "correction": "disponível"
+  },
+  {
+    "typo": "distribuida",
+    "correction": "distribuída"
+  },
+  {
+    "typo": "distribuidas",
+    "correction": "distribuídas"
+  },
+  {
+    "typo": "distribuido",
+    "correction": "distribuído"
+  },
+  {
+    "typo": "distribuidos",
+    "correction": "distribuídos"
+  },
+  {
+    "typo": "disturbio",
+    "correction": "distúrbio"
+  },
+  {
+    "typo": "disturbios",
+    "correction": "distúrbios"
+  },
+  {
+    "typo": "diverssas",
+    "correction": "diversas"
+  },
+  {
+    "typo": "diverssos",
+    "correction": "diversos"
+  },
+  {
+    "typo": "do sua",
+    "correction": "de sua"
+  },
+  {
+    "typo": "do suas",
+    "correction": "de suas"
+  },
+  {
+    "typo": "doacoes",
+    "correction": "doações"
+  },
+  {
+    "typo": "documentario",
+    "correction": "documentário"
+  },
+  {
+    "typo": "documentarios",
+    "correction": "documentários"
+  },
+  {
+    "typo": "dôou",
+    "correction": "doou"
+  },
+  {
+    "typo": "dos suas",
+    "correction": "des suas"
+  },
+  {
+    "typo": "dragao",
+    "correction": "dragão"
+  },
+  {
+    "typo": "Druída",
+    "correction": "Druida"
+  },
+  {
+    "typo": "druídas",
+    "correction": "druidas"
+  },
+  {
+    "typo": "dsenho",
+    "correction": "desenho"
+  },
+  {
+    "typo": "duvidas",
+    "correction": "dúvidas"
+  },
+  {
+    "typo": "DVD's",
+    "correction": "DVDs"
+  },
+  {
+    "typo": "eas",
+    "correction": "e as"
+  },
+  {
+    "typo": "ecessão",
+    "correction": "exceção"
+  },
+  {
+    "typo": "ecessões",
+    "correction": "exceções"
+  },
+  {
+    "typo": "eciclopedia",
+    "correction": "enciclopédia"
+  },
+  {
+    "typo": "eciclopédia",
+    "correction": "enciclopédia"
+  },
+  {
+    "typo": "economica",
+    "correction": "económica, econômica"
+  },
+  {
+    "typo": "ect",
+    "correction": "etc"
+  },
+  {
+    "typo": "egipcios",
+    "correction": "egípcios"
+  },
+  {
+    "typo": "egipsio",
+    "correction": "egípcio"
+  },
+  {
+    "typo": "elacção",
+    "correction": "elação"
+  },
+  {
+    "typo": "electrônica",
+    "correction": "electrónica, eletrônica"
+  },
+  {
+    "typo": "electrônicas",
+    "correction": "electrónicas, eletrônicas"
+  },
+  {
+    "typo": "electrônico",
+    "correction": "electrónico, eletrônico"
+  },
+  {
+    "typo": "electrônicos",
+    "correction": "electrónicos, eletrônicos"
+  },
+  {
+    "typo": "eletroima",
+    "correction": "eletroímã"
+  },
+  {
+    "typo": "eletroimã",
+    "correction": "eletroímã"
+  },
+  {
+    "typo": "eletronica",
+    "correction": "electrónica, eletrônica"
+  },
+  {
+    "typo": "eletrónica",
+    "correction": "electrónica, eletrônica"
+  },
+  {
+    "typo": "eletronicas",
+    "correction": "electrónicas, eletrônicas"
+  },
+  {
+    "typo": "eletrónicas",
+    "correction": "electrónicas, eletrônicas"
+  },
+  {
+    "typo": "eletronico",
+    "correction": "electrónico, eletrônico"
+  },
+  {
+    "typo": "eletrónico",
+    "correction": "electrónico, eletrônico"
+  },
+  {
+    "typo": "eletronico",
+    "correction": "eletrónico"
+  },
+  {
+    "typo": "eletronicos",
+    "correction": "electrónicos, eletrônicos"
+  },
+  {
+    "typo": "eletrónicos",
+    "correction": "electrónicos, eletrônicos"
+  },
+  {
+    "typo": "eletronicos",
+    "correction": "eletrónicos"
+  },
+  {
+    "typo": "elice",
+    "correction": "hélice"
+  },
+  {
+    "typo": "em meado",
+    "correction": "em meados"
+  },
+  {
+    "typo": "emaili",
+    "correction": "e-mail, email, correio electrónico, correio eletrônico"
+  },
+  {
+    "typo": "eminencia",
+    "correction": "eminência"
+  },
+  {
+    "typo": "eminencias",
+    "correction": "eminências"
+  },
+  {
+    "typo": "empresario",
+    "correction": "empresário"
+  },
+  {
+    "typo": "empresarios",
+    "correction": "empresários"
+  },
+  {
+    "typo": "enciclopedia",
+    "correction": "enciclopédia"
+  },
+  {
+    "typo": "enciclopedias",
+    "correction": "enciclopédias"
+  },
+  {
+    "typo": "encima d",
+    "correction": "em cima d"
+  },
+  {
+    "typo": "enfase",
+    "correction": "ênfase"
+  },
+  {
+    "typo": "enfases",
+    "correction": "ênfases"
+  },
+  {
+    "typo": "enquando",
+    "correction": "enquanto"
+  },
+  {
+    "typo": "entao",
+    "correction": "então"
+  },
+  {
+    "typo": "entertido",
+    "correction": "entretido"
+  },
+  {
+    "typo": "entitula",
+    "correction": "intitula"
+  },
+  {
+    "typo": "entitulada",
+    "correction": "intitulada"
+  },
+  {
+    "typo": "entitulado",
+    "correction": "intitulado"
+  },
+  {
+    "typo": "entitulados",
+    "correction": "intitulados"
+  },
+  {
+    "typo": "entitular",
+    "correction": "intitular"
+  },
+  {
+    "typo": "entretando",
+    "correction": "entretanto"
+  },
+  {
+    "typo": "entreteram",
+    "correction": "entretiveram"
+  },
+  {
+    "typo": "entreterimento",
+    "correction": "entretenimento"
+  },
+  {
+    "typo": "entreteu",
+    "correction": "entreteve"
+  },
+  {
+    "typo": "em uma",
+    "correction": " numa"
+  },
+  {
+    "typo": "EP's",
+    "correction": "EP"
+  },
+  {
+    "typo": "epecial",
+    "correction": "especial"
+  },
+  {
+    "typo": "Epica",
+    "correction": "Épica"
+  },
+  {
+    "typo": "epicas",
+    "correction": "épicas"
+  },
+  {
+    "typo": "Epico",
+    "correction": "Épico"
+  },
+  {
+    "typo": "epicos",
+    "correction": "épicos"
+  },
+  {
+    "typo": "episodio",
+    "correction": "episódio"
+  },
+  {
+    "typo": "episodios",
+    "correction": "episódios"
+  },
+  {
+    "typo": "eplepsia",
+    "correction": "epilepsia"
+  },
+  {
+    "typo": "epoca",
+    "correction": "época"
+  },
+  {
+    "typo": "epocas",
+    "correction": "épocas"
+  },
+  {
+    "typo": "EPs",
+    "correction": "EP"
+  },
+  {
+    "typo": "equilibrio",
+    "correction": "equilíbrio"
+  },
+  {
+    "typo": "ernegia",
+    "correction": "energia"
+  },
+  {
+    "typo": "erói",
+    "correction": "herói"
+  },
+  {
+    "typo": "Erotica",
+    "correction": "Erótica"
+  },
+  {
+    "typo": "erotico",
+    "correction": "erótico"
+  },
+  {
+    "typo": "eroticos",
+    "correction": "eróticos"
+  },
+  {
+    "typo": "errôneamente",
+    "correction": "erroneamente"
+  },
+  {
+    "typo": "errupção",
+    "correction": "erupção"
+  },
+  {
+    "typo": "escerda",
+    "correction": "esquerda"
+  },
+  {
+    "typo": "escerdas",
+    "correction": "esquerdas"
+  },
+  {
+    "typo": "esitaram",
+    "correction": "hesitaram"
+  },
+  {
+    "typo": "esitou",
+    "correction": "hesitou"
+  },
+  {
+    "typo": "especialisada",
+    "correction": "especializada"
+  },
+  {
+    "typo": "especialisadas",
+    "correction": "especializadas"
+  },
+  {
+    "typo": "especialisado",
+    "correction": "especializado"
+  },
+  {
+    "typo": "especialisados",
+    "correction": "especializados"
+  },
+  {
+    "typo": "especie",
+    "correction": "espécie"
+  },
+  {
+    "typo": "espectativa",
+    "correction": "expectativa"
+  },
+  {
+    "typo": "espectativas",
+    "correction": "expectativas"
+  },
+  {
+    "typo": "esperanca",
+    "correction": "esperança"
+  },
+  {
+    "typo": "esperancas",
+    "correction": "esperanças"
+  },
+  {
+    "typo": "espetativa",
+    "correction": "expectativa"
+  },
+  {
+    "typo": "espetativas",
+    "correction": "expectativas"
+  },
+  {
+    "typo": "espiao",
+    "correction": "espião"
+  },
+  {
+    "typo": "espirita",
+    "correction": "espírita"
+  },
+  {
+    "typo": "espiritas",
+    "correction": "espíritas"
+  },
+  {
+    "typo": "espirito",
+    "correction": "espírito"
+  },
+  {
+    "typo": "espiritos",
+    "correction": "espíritos"
+  },
+  {
+    "typo": "esporádicamente",
+    "correction": "esporadicamente"
+  },
+  {
+    "typo": "espulsou",
+    "correction": "expulsou"
+  },
+  {
+    "typo": "esquesita",
+    "correction": "esquisita"
+  },
+  {
+    "typo": "esquesitas",
+    "correction": "esquisitas"
+  },
+  {
+    "typo": "esquesito",
+    "correction": "esquisito"
+  },
+  {
+    "typo": "esquesitos",
+    "correction": "esquisitos"
+  },
+  {
+    "typo": "estabelecimente",
+    "correction": "estabelecimento"
+  },
+  {
+    "typo": "estabelecimentes",
+    "correction": "estabelecimentos"
+  },
+  {
+    "typo": "estaçãoos",
+    "correction": "estações"
+  },
+  {
+    "typo": "estadio",
+    "correction": "estádio"
+  },
+  {
+    "typo": "Estadios",
+    "correction": "Estádios"
+  },
+  {
+    "typo": "estao",
+    "correction": "estão"
+  },
+  {
+    "typo": "esteje",
+    "correction": "esteja"
+  },
+  {
+    "typo": "estinto",
+    "correction": "extinto"
+  },
+  {
+    "typo": "estintos",
+    "correction": "extintos"
+  },
+  {
+    "typo": "estorquir",
+    "correction": "extorquir"
+  },
+  {
+    "typo": "estorquiram",
+    "correction": "extorquiram"
+  },
+  {
+    "typo": "estorquiu",
+    "correction": "extorquiu"
+  },
+  {
+    "typo": "estreiada",
+    "correction": "estreada"
+  },
+  {
+    "typo": "estreiado",
+    "correction": "estreado"
+  },
+  {
+    "typo": "estreiar",
+    "correction": "estrear"
+  },
+  {
+    "typo": "estreiaram",
+    "correction": "estrearam"
+  },
+  {
+    "typo": "estreiou",
+    "correction": "estreou"
+  },
+  {
+    "typo": "estudio",
+    "correction": "estúdio"
+  },
+  {
+    "typo": "Estudios",
+    "correction": "Estúdios"
+  },
+  {
+    "typo": "esturquir",
+    "correction": "extorquir"
+  },
+  {
+    "typo": "esturquiram",
+    "correction": "extorquiram"
+  },
+  {
+    "typo": "esturquiu",
+    "correction": "extorquiu"
+  },
+  {
+    "typo": "estutura",
+    "correction": "estrutura"
+  },
+  {
+    "typo": "estva",
+    "correction": "estava"
+  },
+  {
+    "typo": "ethanol",
+    "correction": "etanol"
+  },
+  {
+    "typo": "etica",
+    "correction": "ética"
+  },
+  {
+    "typo": "eticas",
+    "correction": "éticas"
+  },
+  {
+    "typo": "etinias",
+    "correction": "etnias"
+  },
+  {
+    "typo": "etnica",
+    "correction": "étnica"
+  },
+  {
+    "typo": "etnicas",
+    "correction": "étnicas"
+  },
+  {
+    "typo": "etnico",
+    "correction": "étnico"
+  },
+  {
+    "typo": "etnicos",
+    "correction": "étnicos"
+  },
+  {
+    "typo": "evoluida",
+    "correction": "evoluída"
+  },
+  {
+    "typo": "evoluidas",
+    "correction": "evoluídas"
+  },
+  {
+    "typo": "excavação",
+    "correction": "escavação"
+  },
+  {
+    "typo": "excavações",
+    "correction": "escavações"
+  },
+  {
+    "typo": "excavar",
+    "correction": "escavar"
+  },
+  {
+    "typo": "excessao",
+    "correction": "exceção"
+  },
+  {
+    "typo": "excessão",
+    "correction": "exceção"
+  },
+  {
+    "typo": "excessões",
+    "correction": "exceções"
+  },
+  {
+    "typo": "excusa",
+    "correction": "escusa"
+  },
+  {
+    "typo": "excusado",
+    "correction": "escusado"
+  },
+  {
+    "typo": "excusas",
+    "correction": "escusas"
+  },
+  {
+    "typo": "exdrúxula",
+    "correction": "esdrúxula"
+  },
+  {
+    "typo": "exdrúxulas",
+    "correction": "esdrúxulas"
+  },
+  {
+    "typo": "exdrúxulo",
+    "correction": "esdrúxulo"
+  },
+  {
+    "typo": "exdrúxulos",
+    "correction": "esdrúxulos"
+  },
+  {
+    "typo": "exelente",
+    "correction": "excelente"
+  },
+  {
+    "typo": "exelentes",
+    "correction": "excelentes"
+  },
+  {
+    "typo": "exepção",
+    "correction": "excepção"
+  },
+  {
+    "typo": "exepto",
+    "correction": "excepto, exceto"
+  },
+  {
+    "typo": "exercicio",
+    "correction": "exercício"
+  },
+  {
+    "typo": "exercicios",
+    "correction": "exercícios"
+  },
+  {
+    "typo": "exeto",
+    "correction": "exceto"
+  },
+  {
+    "typo": "exeto",
+    "correction": "exceto, excepto"
+  },
+  {
+    "typo": "exijência",
+    "correction": "exigência"
+  },
+  {
+    "typo": "exijências",
+    "correction": "exigências"
+  },
+  {
+    "typo": "exita",
+    "correction": "hesita"
+  },
+  {
+    "typo": "exitar",
+    "correction": "hesitar"
+  },
+  {
+    "typo": "exitaram",
+    "correction": "hesitaram"
+  },
+  {
+    "typo": "exite",
+    "correction": "existe"
+  },
+  {
+    "typo": "exitem",
+    "correction": "existem"
+  },
+  {
+    "typo": "exitou",
+    "correction": "hesitou"
+  },
+  {
+    "typo": "expectador",
+    "correction": "espectador"
+  },
+  {
+    "typo": "expontânea",
+    "correction": "espontânea"
+  },
+  {
+    "typo": "expontâneas",
+    "correction": "espontâneas"
+  },
+  {
+    "typo": "expontâneo",
+    "correction": "espontâneo"
+  },
+  {
+    "typo": "expontâneos",
+    "correction": "espontâneos"
+  },
+  {
+    "typo": "extende",
+    "correction": "estende"
+  },
+  {
+    "typo": "extende-se",
+    "correction": "estende-se"
+  },
+  {
+    "typo": "extendendo",
+    "correction": "estendendo"
+  },
+  {
+    "typo": "extender",
+    "correction": "estender"
+  },
+  {
+    "typo": "extenderam",
+    "correction": "estenderam"
+  },
+  {
+    "typo": "extendeu",
+    "correction": "estendeu"
+  },
+  {
+    "typo": "extendida",
+    "correction": "estendida"
+  },
+  {
+    "typo": "extendidas",
+    "correction": "estendidas"
+  },
+  {
+    "typo": "extendido",
+    "correction": "estendido"
+  },
+  {
+    "typo": "facil",
+    "correction": "fácil"
+  },
+  {
+    "typo": "familia",
+    "correction": "família"
+  },
+  {
+    "typo": "familias",
+    "correction": "famílias"
+  },
+  {
+    "typo": "fan",
+    "correction": "fã"
+  },
+  {
+    "typo": "farmaceutica",
+    "correction": "farmacêutica"
+  },
+  {
+    "typo": "farmaceuticas",
+    "correction": "farmacêuticas"
+  },
+  {
+    "typo": "farmaceutico",
+    "correction": "farmacêutico"
+  },
+  {
+    "typo": "farmaceuticos",
+    "correction": "farmacêuticos"
+  },
+  {
+    "typo": "faser",
+    "correction": "fazer"
+  },
+  {
+    "typo": "fecula",
+    "correction": "fécula"
+  },
+  {
+    "typo": "feitiçeira",
+    "correction": "feiticeira"
+  },
+  {
+    "typo": "feitiçeiro",
+    "correction": "feiticeiro"
+  },
+  {
+    "typo": "feitiçeiros",
+    "correction": "feiticeiros"
+  },
+  {
+    "typo": "fémea",
+    "correction": "fêmea"
+  },
+  {
+    "typo": "femeninismo",
+    "correction": "femininismo"
+  },
+  {
+    "typo": "femeninismos",
+    "correction": "femininismos"
+  },
+  {
+    "typo": "Femenino",
+    "correction": "Feminino"
+  },
+  {
+    "typo": "femeninos",
+    "correction": "femininos"
+  },
+  {
+    "typo": "ferverosos",
+    "correction": "fervorosos"
+  },
+  {
+    "typo": "fimeninismo",
+    "correction": "femininismo"
+  },
+  {
+    "typo": "fimeninismos",
+    "correction": "femininismos"
+  },
+  {
+    "typo": "fimenino",
+    "correction": "feminino"
+  },
+  {
+    "typo": "fimeninos",
+    "correction": "femininos"
+  },
+  {
+    "typo": "Finlandia",
+    "correction": "finlândia"
+  },
+  {
+    "typo": "fisica",
+    "correction": "física"
+  },
+  {
+    "typo": "fizestes",
+    "correction": "fizeste"
+  },
+  {
+    "typo": "flôr",
+    "correction": "flor"
+  },
+  {
+    "typo": "Flôres",
+    "correction": "Flores"
+  },
+  {
+    "typo": "flôrs",
+    "correction": "flores"
+  },
+  {
+    "typo": "fluído",
+    "correction": "fluido"
+  },
+  {
+    "typo": "fluídos",
+    "correction": "fluidos"
+  },
+  {
+    "typo": "forão",
+    "correction": "foram"
+  },
+  {
+    "typo": "fortuíto",
+    "correction": "fortuito"
+  },
+  {
+    "typo": "fortuítos",
+    "correction": "fortuitos"
+  },
+  {
+    "typo": "fórums",
+    "correction": "fóruns"
+  },
+  {
+    "typo": "fotografica",
+    "correction": "fotográfica"
+  },
+  {
+    "typo": "frageis",
+    "correction": "frágeis"
+  },
+  {
+    "typo": "fragil",
+    "correction": "frágil"
+  },
+  {
+    "typo": "Frankstein",
+    "correction": "Frankenstein"
+  },
+  {
+    "typo": "Freis",
+    "correction": "Frades"
+  },
+  {
+    "typo": "funeraria",
+    "correction": "funerária"
+  },
+  {
+    "typo": "funerarias",
+    "correction": "funerárias"
+  },
+  {
+    "typo": "funerario",
+    "correction": "funerário"
+  },
+  {
+    "typo": "funerarios",
+    "correction": "funerários"
+  },
+  {
+    "typo": "furá",
+    "correction": "furar"
+  },
+  {
+    "typo": "furacao",
+    "correction": "furacão"
+  },
+  {
+    "typo": "furacoes",
+    "correction": "furacões"
+  },
+  {
+    "typo": "galaxia",
+    "correction": "galáxia"
+  },
+  {
+    "typo": "Galeao",
+    "correction": "Galeão"
+  },
+  {
+    "typo": "Gas",
+    "correction": "Gás"
+  },
+  {
+    "typo": "Gaz",
+    "correction": "Gás"
+  },
+  {
+    "typo": "gáz",
+    "correction": "gás"
+  },
+  {
+    "typo": "geito",
+    "correction": "jeito"
+  },
+  {
+    "typo": "geneceu",
+    "correction": "gineceu"
+  },
+  {
+    "typo": "generico",
+    "correction": "genérico"
+  },
+  {
+    "typo": "genericos",
+    "correction": "genéricos"
+  },
+  {
+    "typo": "genero",
+    "correction": "género"
+  },
+  {
+    "typo": "generos",
+    "correction": "géneros"
+  },
+  {
+    "typo": "genio",
+    "correction": "génio, gênio"
+  },
+  {
+    "typo": "geometrica",
+    "correction": "geométrica"
+  },
+  {
+    "typo": "geometrica",
+    "correction": "geométrico"
+  },
+  {
+    "typo": "geometricas",
+    "correction": "geométricas"
+  },
+  {
+    "typo": "geometricas",
+    "correction": "geométricos"
+  },
+  {
+    "typo": "geometrico",
+    "correction": "geométrico"
+  },
+  {
+    "typo": "geometricos",
+    "correction": "geométricos"
+  },
+  {
+    "typo": "gipe",
+    "correction": "jipe"
+  },
+  {
+    "typo": "gipes",
+    "correction": "jipes"
+  },
+  {
+    "typo": "giria",
+    "correction": "gíria"
+  },
+  {
+    "typo": "girias",
+    "correction": "gírias"
+  },
+  {
+    "typo": "giroscopico",
+    "correction": "giroscópio"
+  },
+  {
+    "typo": "giroscopio",
+    "correction": "giroscópio"
+  },
+  {
+    "typo": "gorgeta",
+    "correction": "gorjeta"
+  },
+  {
+    "typo": "gorgetas",
+    "correction": "gorjetas"
+  },
+  {
+    "typo": "Governador Geral",
+    "correction": "governador-geral"
+  },
+  {
+    "typo": "Grã Bretanha",
+    "correction": "Grã-Bretanha"
+  },
+  {
+    "typo": "graca",
+    "correction": "graça"
+  },
+  {
+    "typo": "gracas",
+    "correction": "graças"
+  },
+  {
+    "typo": "grafico",
+    "correction": "gráfico"
+  },
+  {
+    "typo": "graficos",
+    "correction": "gráficos"
+  },
+  {
+    "typo": "grangear",
+    "correction": "granjear"
+  },
+  {
+    "typo": "gratuíto",
+    "correction": "gratuito"
+  },
+  {
+    "typo": "gratuítos",
+    "correction": "gratuitos"
+  },
+  {
+    "typo": "grau centigrado",
+    "correction": "grau Celsius"
+  },
+  {
+    "typo": "grau centígrado",
+    "correction": "grau Celsius"
+  },
+  {
+    "typo": "grau centígrados",
+    "correction": "grau Celsius"
+  },
+  {
+    "typo": "grau kelvin",
+    "correction": "Kelvin"
+  },
+  {
+    "typo": "Guiza",
+    "correction": "Guisa"
+  },
+  {
+    "typo": "Guizado",
+    "correction": "Guisado"
+  },
+  {
+    "typo": "Guizar",
+    "correction": "Guisar"
+  },
+  {
+    "typo": "Guizo",
+    "correction": "Guiso"
+  },
+  {
+    "typo": "hà",
+    "correction": "há"
+  },
+  {
+    "typo": "hambiente",
+    "correction": "ambiente"
+  },
+  {
+    "typo": "hambientes",
+    "correction": "ambientes"
+  },
+  {
+    "typo": "haviam muitos",
+    "correction": "havia muitos"
+  },
+  {
+    "typo": "haviam poucos",
+    "correction": "havia poucos"
+  },
+  {
+    "typo": "haviam vários",
+    "correction": "havia vários"
+  },
+  {
+    "typo": "hectar",
+    "correction": "hectare"
+  },
+  {
+    "typo": "heraldica",
+    "correction": "heráldica"
+  },
+  {
+    "typo": "heraldico",
+    "correction": "heráldico"
+  },
+  {
+    "typo": "heranca",
+    "correction": "herança"
+  },
+  {
+    "typo": "Herodoto",
+    "correction": "Heródoto"
+  },
+  {
+    "typo": "heróico",
+    "correction": "heroico"
+  },
+  {
+    "typo": "heterosexuais",
+    "correction": "heterossexuais"
+  },
+  {
+    "typo": "heterosexual",
+    "correction": "heterossexual"
+  },
+  {
+    "typo": "hexa-campeão",
+    "correction": "hexacampeão"
+  },
+  {
+    "typo": "hilariedade",
+    "correction": "hilaridade"
+  },
+  {
+    "typo": "historia",
+    "correction": "história"
+  },
+  {
+    "typo": "historica",
+    "correction": "histórica"
+  },
+  {
+    "typo": "historicas",
+    "correction": "históricas"
+  },
+  {
+    "typo": "historico",
+    "correction": "histórico"
+  },
+  {
+    "typo": "historicos",
+    "correction": "históricos"
+  },
+  {
+    "typo": "hj ",
+    "correction": "hoje"
+  },
+  {
+    "typo": "homosexuais",
+    "correction": "homossexuais"
+  },
+  {
+    "typo": "homosexual",
+    "correction": "homossexual"
+  },
+  {
+    "typo": "homosexualidade",
+    "correction": "homossexualidade"
+  },
+  {
+    "typo": "horario",
+    "correction": "horário"
+  },
+  {
+    "typo": "horarios",
+    "correction": "horários"
+  },
+  {
+    "typo": "houveram",
+    "correction": "houve"
+  },
+  {
+    "typo": "hoxigenio",
+    "correction": "oxigênio"
+  },
+  {
+    "typo": "hoxigênio",
+    "correction": "oxigênio"
+  },
+  {
+    "typo": "humoristica",
+    "correction": "humorística"
+  },
+  {
+    "typo": "humoristico",
+    "correction": "humorístico"
+  },
+  {
+    "typo": "hungaro",
+    "correction": "húngaro"
+  },
+  {
+    "typo": "icone",
+    "correction": "ícone"
+  },
+  {
+    "typo": "Icones",
+    "correction": "Ícones"
+  },
+  {
+    "typo": "idéia",
+    "correction": "ideia"
+  },
+  {
+    "typo": "idéias",
+    "correction": "ideias"
+  },
+  {
+    "typo": "ideología",
+    "correction": "ideologia"
+  },
+  {
+    "typo": "idolo",
+    "correction": "ídolo"
+  },
+  {
+    "typo": "idolos",
+    "correction": "ídolos"
+  },
+  {
+    "typo": "igiene",
+    "correction": "higiene"
+  },
+  {
+    "typo": "igienico",
+    "correction": "higiênico"
+  },
+  {
+    "typo": "iguasu",
+    "correction": "Iguaçu"
+  },
+  {
+    "typo": "ilacção",
+    "correction": "ilação"
+  },
+  {
+    "typo": "imenência",
+    "correction": "iminência"
+  },
+  {
+    "typo": "imenente",
+    "correction": "iminente"
+  },
+  {
+    "typo": "imoveis",
+    "correction": "imóveis"
+  },
+  {
+    "typo": "imovel",
+    "correction": "imóvel"
+  },
+  {
+    "typo": "imperio",
+    "correction": "império"
+  },
+  {
+    "typo": "imperios",
+    "correction": "impérios"
+  },
+  {
+    "typo": "importancia",
+    "correction": "importância"
+  },
+  {
+    "typo": "importancias",
+    "correction": "importâncias"
+  },
+  {
+    "typo": "impossiveis",
+    "correction": "impossíveis"
+  },
+  {
+    "typo": "impossivel",
+    "correction": "impossível"
+  },
+  {
+    "typo": "imprenssa",
+    "correction": "imprensa"
+  },
+  {
+    "typo": "impresa",
+    "correction": "empresa"
+  },
+  {
+    "typo": "imuno-deficiência",
+    "correction": "imunodeficiência"
+  },
+  {
+    "typo": "imuno-deficiências",
+    "correction": "imunodeficiências"
+  },
+  {
+    "typo": "incendio",
+    "correction": "incêndio"
+  },
+  {
+    "typo": "inclue",
+    "correction": "inclui"
+  },
+  {
+    "typo": "incluiam",
+    "correction": "incluíam"
+  },
+  {
+    "typo": "incluido",
+    "correction": "incluído"
+  },
+  {
+    "typo": "incluíndo",
+    "correction": "incluindo"
+  },
+  {
+    "typo": "incluiram",
+    "correction": "incluíram"
+  },
+  {
+    "typo": "inclusivé",
+    "correction": "inclusive"
+  },
+  {
+    "typo": "incoerencia",
+    "correction": "incoerência"
+  },
+  {
+    "typo": "incoerencias",
+    "correction": "incoerências"
+  },
+  {
+    "typo": "incompetencia",
+    "correction": "incompetência"
+  },
+  {
+    "typo": "incriveis",
+    "correction": "incríveis"
+  },
+  {
+    "typo": "incrivel",
+    "correction": "incrível"
+  },
+  {
+    "typo": "indefenição",
+    "correction": "indefinição"
+  },
+  {
+    "typo": "indefenições",
+    "correction": "indefinições"
+  },
+  {
+    "typo": "indefenir",
+    "correction": "indefinir"
+  },
+  {
+    "typo": "indentidade",
+    "correction": "identidade"
+  },
+  {
+    "typo": "indentidades",
+    "correction": "identidades"
+  },
+  {
+    "typo": "indepedente",
+    "correction": "independente"
+  },
+  {
+    "typo": "indepedentes",
+    "correction": "independentes"
+  },
+  {
+    "typo": "India",
+    "correction": "Índia"
+  },
+  {
+    "typo": "indice",
+    "correction": "índice"
+  },
+  {
+    "typo": "indices",
+    "correction": "índices"
+  },
+  {
+    "typo": "indigena",
+    "correction": "indígena"
+  },
+  {
+    "typo": "indiguinação",
+    "correction": "indignação"
+  },
+  {
+    "typo": "indiguinado",
+    "correction": "indignado"
+  },
+  {
+    "typo": "indiguinar",
+    "correction": "indignar"
+  },
+  {
+    "typo": "indioma",
+    "correction": "idioma"
+  },
+  {
+    "typo": "indiomas",
+    "correction": "idiomas"
+  },
+  {
+    "typo": "indispensavel",
+    "correction": "indispensável"
+  },
+  {
+    "typo": "indisponivel",
+    "correction": "indisponível"
+  },
+  {
+    "typo": "individada",
+    "correction": "endividada"
+  },
+  {
+    "typo": "individadas",
+    "correction": "endividadas"
+  },
+  {
+    "typo": "individado",
+    "correction": "endividado"
+  },
+  {
+    "typo": "individados",
+    "correction": "endividados"
+  },
+  {
+    "typo": "individuo",
+    "correction": "indivíduo"
+  },
+  {
+    "typo": "indíviduo",
+    "correction": "indivíduo"
+  },
+  {
+    "typo": "individuos",
+    "correction": "indivíduos"
+  },
+  {
+    "typo": "indíviduos",
+    "correction": "indivíduos"
+  },
+  {
+    "typo": "industria",
+    "correction": "indústria"
+  },
+  {
+    "typo": "industrias",
+    "correction": "indústrias"
+  },
+  {
+    "typo": "inedita",
+    "correction": "inédita"
+  },
+  {
+    "typo": "ineditas",
+    "correction": "inéditas"
+  },
+  {
+    "typo": "inedito",
+    "correction": "inédito"
+  },
+  {
+    "typo": "ineditos",
+    "correction": "inéditos"
+  },
+  {
+    "typo": "infancia",
+    "correction": "infância"
+  },
+  {
+    "typo": "infelismente",
+    "correction": "infelizmente"
+  },
+  {
+    "typo": "inflacção",
+    "correction": "inflação"
+  },
+  {
+    "typo": "infra vermelho",
+    "correction": "infravermelho"
+  },
+  {
+    "typo": "infra vermelhos",
+    "correction": "infravermelhos"
+  },
+  {
+    "typo": "infra-vermelho",
+    "correction": "infravermelho"
+  },
+  {
+    "typo": "infra-vermelhos",
+    "correction": "infravermelhos"
+  },
+  {
+    "typo": "ingenuo",
+    "correction": "ingénuo"
+  },
+  {
+    "typo": "ingles",
+    "correction": "inglês"
+  },
+  {
+    "typo": "inglêsa",
+    "correction": "inglesa"
+  },
+  {
+    "typo": "inglêsas",
+    "correction": "inglesas"
+  },
+  {
+    "typo": "inglêses",
+    "correction": "ingleses"
+  },
+  {
+    "typo": "ingreja",
+    "correction": "igreja"
+  },
+  {
+    "typo": "inícia",
+    "correction": "inicia"
+  },
+  {
+    "typo": "inicio",
+    "correction": "início"
+  },
+  {
+    "typo": "inicios",
+    "correction": "inícios"
+  },
+  {
+    "typo": "inteligencia",
+    "correction": "inteligência"
+  },
+  {
+    "typo": "inteligencias",
+    "correction": "inteligências"
+  },
+  {
+    "typo": "Intenacional",
+    "correction": "Internacional"
+  },
+  {
+    "typo": "intensão",
+    "correction": "intenção"
+  },
+  {
+    "typo": "intertido",
+    "correction": "entretido"
+  },
+  {
+    "typo": "intervemos",
+    "correction": "intervimos"
+  },
+  {
+    "typo": "intervi",
+    "correction": "intervim"
+  },
+  {
+    "typo": "intervido",
+    "correction": "intervindo"
+  },
+  {
+    "typo": "interviram",
+    "correction": "intervieram"
+  },
+  {
+    "typo": "intervisse",
+    "correction": "interviesse"
+  },
+  {
+    "typo": "interviste",
+    "correction": "intervieste"
+  },
+  {
+    "typo": "interviu",
+    "correction": "interveio"
+  },
+  {
+    "typo": "intigração",
+    "correction": "integração"
+  },
+  {
+    "typo": "intrinseca",
+    "correction": "intrínseca"
+  },
+  {
+    "typo": "intrinseco",
+    "correction": "intrínseco"
+  },
+  {
+    "typo": "intrumental",
+    "correction": "instrumental"
+  },
+  {
+    "typo": "intrumento",
+    "correction": "instrumento"
+  },
+  {
+    "typo": "inumeras",
+    "correction": "inúmeras"
+  },
+  {
+    "typo": "inumeros",
+    "correction": "inúmeros"
+  },
+  {
+    "typo": "invensivel",
+    "correction": "invencível"
+  },
+  {
+    "typo": "invensível",
+    "correction": "invencível"
+  },
+  {
+    "typo": "invenssível",
+    "correction": "invencível"
+  },
+  {
+    "typo": "inves",
+    "correction": "invés"
+  },
+  {
+    "typo": "invez",
+    "correction": "invés"
+  },
+  {
+    "typo": "invéz",
+    "correction": "invés"
+  },
+  {
+    "typo": "iorgute",
+    "correction": "iogurte"
+  },
+  {
+    "typo": "iper",
+    "correction": "hiper"
+  },
+  {
+    "typo": "ipopótamo",
+    "correction": "hipopótamo"
+  },
+  {
+    "typo": "ipslon",
+    "correction": "ípslon"
+  },
+  {
+    "typo": "irisar",
+    "correction": "irizar"
+  },
+  {
+    "typo": "Irizar",
+    "correction": "Irisar"
+  },
+  {
+    "typo": "irmao",
+    "correction": "irmão"
+  },
+  {
+    "typo": "irmaos",
+    "correction": "irmãos"
+  },
+  {
+    "typo": "irupção",
+    "correction": "irrupção"
+  },
+  {
+    "typo": "ispirar",
+    "correction": "inspirar"
+  },
+  {
+    "typo": "ispirou",
+    "correction": "inspirou"
+  },
+  {
+    "typo": "issu",
+    "correction": "isso"
+  },
+  {
+    "typo": "jamelão",
+    "correction": "jamelada,rabada"
+  },
+  {
+    "typo": "japones",
+    "correction": "japonês"
+  },
+  {
+    "typo": "jeropiga",
+    "correction": "geropiga"
+  },
+  {
+    "typo": "Joana d´Arc",
+    "correction": "Joana d'Arc"
+  },
+  {
+    "typo": "judiciaria",
+    "correction": "judiciária"
+  },
+  {
+    "typo": "judiciarias",
+    "correction": "judiciárias"
+  },
+  {
+    "typo": "juíz",
+    "correction": "juiz"
+  },
+  {
+    "typo": "juiza",
+    "correction": "juíza"
+  },
+  {
+    "typo": "juizas",
+    "correction": "juízas"
+  },
+  {
+    "typo": "juizes",
+    "correction": "juízes"
+  },
+  {
+    "typo": "juizo",
+    "correction": "juízo"
+  },
+  {
+    "typo": "juizos",
+    "correction": "juízos"
+  },
+  {
+    "typo": "junior",
+    "correction": "júnior"
+  },
+  {
+    "typo": "júniores",
+    "correction": "juniores"
+  },
+  {
+    "typo": "juridica",
+    "correction": "jurídica"
+  },
+  {
+    "typo": "juridição",
+    "correction": "jurisdição"
+  },
+  {
+    "typo": "juridicas",
+    "correction": "jurídicas"
+  },
+  {
+    "typo": "juridico",
+    "correction": "jurídico"
+  },
+  {
+    "typo": "juridicos",
+    "correction": "jurídicos"
+  },
+  {
+    "typo": "juz",
+    "correction": "jus"
+  },
+  {
+    "typo": "kilo",
+    "correction": "quilograma"
+  },
+  {
+    "typo": "kilômetro",
+    "correction": "quilômetro"
+  },
+  {
+    "typo": "kilometro",
+    "correction": "quilómetro, quilômetro"
+  },
+  {
+    "typo": "kilómetro",
+    "correction": "quilómetro, quilômetro"
+  },
+  {
+    "typo": "kilometros",
+    "correction": "quilómetros, quilômetros"
+  },
+  {
+    "typo": "kilómetros",
+    "correction": "quilómetros, quilômetros"
+  },
+  {
+    "typo": "km2",
+    "correction": "km²"
+  },
+  {
+    "typo": "Laboratorio",
+    "correction": "Laboratório"
+  },
+  {
+    "typo": "laboratorios",
+    "correction": "laboratórios"
+  },
+  {
+    "typo": "largartixa",
+    "correction": "lagartixa"
+  },
+  {
+    "typo": "largarto",
+    "correction": "lagarto"
+  },
+  {
+    "typo": "leêm",
+    "correction": "lêem"
+  },
+  {
+    "typo": "lêm",
+    "correction": "lêem"
+  },
+  {
+    "typo": "lendaria",
+    "correction": "lendária"
+  },
+  {
+    "typo": "lendarias",
+    "correction": "lendárias"
+  },
+  {
+    "typo": "lendario",
+    "correction": "lendário"
+  },
+  {
+    "typo": "lendarios",
+    "correction": "lendários"
+  },
+  {
+    "typo": "leucémia",
+    "correction": "leucemia"
+  },
+  {
+    "typo": "leva-lo",
+    "correction": "levá-lo"
+  },
+  {
+    "typo": "licenca",
+    "correction": "licença"
+  },
+  {
+    "typo": "licencas",
+    "correction": "licenças"
+  },
+  {
+    "typo": "licensa",
+    "correction": "licença"
+  },
+  {
+    "typo": "lider",
+    "correction": "líder"
+  },
+  {
+    "typo": "lideres",
+    "correction": "líderes"
+  },
+  {
+    "typo": "limitrofe",
+    "correction": "limítrofe"
+  },
+  {
+    "typo": "limitrofes",
+    "correction": "limítrofes"
+  },
+  {
+    "typo": "lingua",
+    "correction": "língua"
+  },
+  {
+    "typo": "linguas",
+    "correction": "línguas"
+  },
+  {
+    "typo": "linguísta",
+    "correction": "linguista"
+  },
+  {
+    "typo": "línguísta",
+    "correction": "linguista"
+  },
+  {
+    "typo": "linguístas",
+    "correction": "linguistas"
+  },
+  {
+    "typo": "línguístas",
+    "correction": "linguistas"
+  },
+  {
+    "typo": "lisongea",
+    "correction": "lisonjeia"
+  },
+  {
+    "typo": "lisongear",
+    "correction": "lisonjear"
+  },
+  {
+    "typo": "lisongeara",
+    "correction": "lisonjeara"
+  },
+  {
+    "typo": "lisongearam",
+    "correction": "lisonjearam"
+  },
+  {
+    "typo": "lisongearou",
+    "correction": "lisonjearou"
+  },
+  {
+    "typo": "lisonjea",
+    "correction": "lisonjeia"
+  },
+  {
+    "typo": "logica",
+    "correction": "lógica"
+  },
+  {
+    "typo": "lógicamente",
+    "correction": "logicamente"
+  },
+  {
+    "typo": "logista",
+    "correction": "lojista"
+  },
+  {
+    "typo": "logistas",
+    "correction": "lojistas"
+  },
+  {
+    "typo": "lojica",
+    "correction": "lógica"
+  },
+  {
+    "typo": "lójica",
+    "correction": "lógica"
+  },
+  {
+    "typo": "lusofona",
+    "correction": "lusófona"
+  },
+  {
+    "typo": "lusofonas",
+    "correction": "lusófonas"
+  },
+  {
+    "typo": "lusofono",
+    "correction": "lusófono"
+  },
+  {
+    "typo": "lusofonos",
+    "correction": "lusófonos"
+  },
+  {
+    "typo": "m2",
+    "correction": "m²"
+  },
+  {
+    "typo": "m3",
+    "correction": "m³"
+  },
+  {
+    "typo": "Magestade",
+    "correction": "Majestade"
+  },
+  {
+    "typo": "magestades",
+    "correction": "majestades"
+  },
+  {
+    "typo": "mágia",
+    "correction": "magia"
+  },
+  {
+    "typo": "magica",
+    "correction": "mágica"
+  },
+  {
+    "typo": "magico",
+    "correction": "mágico"
+  },
+  {
+    "typo": "mais também",
+    "correction": "mas também"
+  },
+  {
+    "typo": "mangerico",
+    "correction": "manjerico"
+  },
+  {
+    "typo": "mangericos",
+    "correction": "manjericos"
+  },
+  {
+    "typo": "manteram",
+    "correction": "mantiveram"
+  },
+  {
+    "typo": "mantesse",
+    "correction": "mantivesse"
+  },
+  {
+    "typo": "manteu",
+    "correction": "manteve"
+  },
+  {
+    "typo": "Mantia",
+    "correction": "Mantinha"
+  },
+  {
+    "typo": "manuntenção",
+    "correction": "manutenção"
+  },
+  {
+    "typo": "maritima",
+    "correction": "marítima"
+  },
+  {
+    "typo": "maritimas",
+    "correction": "marítimas"
+  },
+  {
+    "typo": "Maritimo",
+    "correction": "Marítimo"
+  },
+  {
+    "typo": "Maritimos",
+    "correction": "Marítimos"
+  },
+  {
+    "typo": "massiça",
+    "correction": "maciça"
+  },
+  {
+    "typo": "massiças",
+    "correction": "maciças"
+  },
+  {
+    "typo": "massiço",
+    "correction": "maciço"
+  },
+  {
+    "typo": "massiços",
+    "correction": "maciços"
+  },
+  {
+    "typo": "mau estar",
+    "correction": "mal-estar"
+  },
+  {
+    "typo": "Meche",
+    "correction": "Mexe"
+  },
+  {
+    "typo": "mecher",
+    "correction": "mexer"
+  },
+  {
+    "typo": "mecheram",
+    "correction": "mexeram"
+  },
+  {
+    "typo": "mecheu",
+    "correction": "mexeu"
+  },
+  {
+    "typo": "médico cirurgião",
+    "correction": "médico-cirurgião"
+  },
+  {
+    "typo": "meio-ambiente",
+    "correction": "meio ambiente"
+  },
+  {
+    "typo": "melhores classificados",
+    "correction": "mais bem classificados"
+  },
+  {
+    "typo": "melhores colocados",
+    "correction": "mais bem colocados"
+  },
+  {
+    "typo": "memoria",
+    "correction": "memória"
+  },
+  {
+    "typo": "memorias",
+    "correction": "memórias"
+  },
+  {
+    "typo": "memso",
+    "correction": "mesmo"
+  },
+  {
+    "typo": "menas",
+    "correction": "menos"
+  },
+  {
+    "typo": "mercenaria",
+    "correction": "mercenária"
+  },
+  {
+    "typo": "mercenarias",
+    "correction": "mercenárias"
+  },
+  {
+    "typo": "Mercenario",
+    "correction": "Mercenário"
+  },
+  {
+    "typo": "mercenarios",
+    "correction": "mercenários"
+  },
+  {
+    "typo": "mêses",
+    "correction": "meses"
+  },
+  {
+    "typo": "metereologia",
+    "correction": "meteorologia"
+  },
+  {
+    "typo": "metodo",
+    "correction": "método"
+  },
+  {
+    "typo": "metodos",
+    "correction": "métodos"
+  },
+  {
+    "typo": "Mexico",
+    "correction": "México"
+  },
+  {
+    "typo": "miceis",
+    "correction": "mísseis"
+  },
+  {
+    "typo": "míceis",
+    "correction": "mísseis"
+  },
+  {
+    "typo": "micil",
+    "correction": "míssil"
+  },
+  {
+    "typo": "mícil",
+    "correction": "míssil"
+  },
+  {
+    "typo": "microscopica",
+    "correction": "microscópica"
+  },
+  {
+    "typo": "milões",
+    "correction": "milhões"
+  },
+  {
+    "typo": "minerio",
+    "correction": "minério"
+  },
+  {
+    "typo": "minimo",
+    "correction": "mínimo"
+  },
+  {
+    "typo": "Ministerio",
+    "correction": "Ministério"
+  },
+  {
+    "typo": "Ministerios",
+    "correction": "Ministérios"
+  },
+  {
+    "typo": "missao",
+    "correction": "missão"
+  },
+  {
+    "typo": "mistica",
+    "correction": "mística"
+  },
+  {
+    "typo": "misticas",
+    "correction": "místicas"
+  },
+  {
+    "typo": "Mistico",
+    "correction": "Místico"
+  },
+  {
+    "typo": "misticos",
+    "correction": "místicos"
+  },
+  {
+    "typo": "miticas",
+    "correction": "míticas"
+  },
+  {
+    "typo": "mls",
+    "correction": "mL"
+  },
+  {
+    "typo": "molaridade",
+    "correction": "concentração em quantidade de matéria"
+  },
+  {
+    "typo": "mór",
+    "correction": "mor"
+  },
+  {
+    "typo": "muinto",
+    "correction": "muito"
+  },
+  {
+    "typo": "muintos",
+    "correction": "muitos"
+  },
+  {
+    "typo": "multi-uso",
+    "correction": " multiúso"
+  },
+  {
+    "typo": "multimedia",
+    "correction": "multimedia, multimídia"
+  },
+  {
+    "typo": "multimedias",
+    "correction": "multimédias, multimídias"
+  },
+  {
+    "typo": "multimidia",
+    "correction": "multimídia, multimédia"
+  },
+  {
+    "typo": "multimidias",
+    "correction": " multimídias, multimédias"
+  },
+  {
+    "typo": "multiuso",
+    "correction": " multiúso"
+  },
+  {
+    "typo": "municipio",
+    "correction": "município"
+  },
+  {
+    "typo": "munícipio",
+    "correction": "município"
+  },
+  {
+    "typo": "munícípio",
+    "correction": "município"
+  },
+  {
+    "typo": "Municipios",
+    "correction": "Municípios"
+  },
+  {
+    "typo": "munícipios",
+    "correction": "municípios"
+  },
+  {
+    "typo": "munícípios",
+    "correction": "municípios"
+  },
+  {
+    "typo": "munto",
+    "correction": "muito"
+  },
+  {
+    "typo": "muntos",
+    "correction": "muitos"
+  },
+  {
+    "typo": "musica",
+    "correction": "música"
+  },
+  {
+    "typo": "musicas",
+    "correction": "músicas"
+  },
+  {
+    "typo": "musico",
+    "correction": "músico"
+  },
+  {
+    "typo": "musicos",
+    "correction": "músicos"
+  },
+  {
+    "typo": "ñ",
+    "correction": "não"
+  },
+  {
+    "typo": "naceu",
+    "correction": "nasceu"
+  },
+  {
+    "typo": "nacida",
+    "correction": "nascida"
+  },
+  {
+    "typo": "nacido",
+    "correction": "nascido"
+  },
+  {
+    "typo": "nacimento",
+    "correction": "nascimento"
+  },
+  {
+    "typo": "nanômetro",
+    "correction": "nanometro"
+  },
+  {
+    "typo": "nao",
+    "correction": "não"
+  },
+  {
+    "typo": "NAUm ",
+    "correction": "não"
+  },
+  {
+    "typo": "naum",
+    "correction": "não"
+  },
+  {
+    "typo": "naun ",
+    "correction": "não"
+  },
+  {
+    "typo": "necessáriamente",
+    "correction": "necessariamente"
+  },
+  {
+    "typo": "negocios",
+    "correction": "negócios"
+  },
+  {
+    "typo": "nenum",
+    "correction": "nenhum"
+  },
+  {
+    "typo": "neo darwinismo",
+    "correction": "neodarwinismo"
+  },
+  {
+    "typo": "neo liberais",
+    "correction": "neoliberais"
+  },
+  {
+    "typo": "neo liberal",
+    "correction": "neoliberal"
+  },
+  {
+    "typo": "neo liberalismo",
+    "correction": "neoliberalismo"
+  },
+  {
+    "typo": "neo zelandês",
+    "correction": "neozelandês"
+  },
+  {
+    "typo": "neo zelandesa",
+    "correction": "neozelandesa"
+  },
+  {
+    "typo": "neo-darwinismo",
+    "correction": "neodarwinismo"
+  },
+  {
+    "typo": "neo-liberais",
+    "correction": "neoliberais"
+  },
+  {
+    "typo": "neo-liberal",
+    "correction": "neoliberal"
+  },
+  {
+    "typo": "neo-liberalismo",
+    "correction": "neoliberalismo"
+  },
+  {
+    "typo": "neo-zelandês",
+    "correction": "neozelandês"
+  },
+  {
+    "typo": "neo-zelandesa",
+    "correction": "neozelandesa"
+  },
+  {
+    "typo": "nescessária",
+    "correction": "necessária"
+  },
+  {
+    "typo": "nescessárias",
+    "correction": "necessárias"
+  },
+  {
+    "typo": "nescessario",
+    "correction": "necessário"
+  },
+  {
+    "typo": "nescessário",
+    "correction": "necessário"
+  },
+  {
+    "typo": "nessecidade",
+    "correction": "necessidade"
+  },
+  {
+    "typo": "ninguem",
+    "correction": "ninguém"
+  },
+  {
+    "typo": "nivel",
+    "correction": "nível"
+  },
+  {
+    "typo": "nonagesima",
+    "correction": "nonagésima"
+  },
+  {
+    "typo": "nonagesimo",
+    "correction": "nonagésimo"
+  },
+  {
+    "typo": "nonagessima",
+    "correction": "nonagésima"
+  },
+  {
+    "typo": "nonagéssima",
+    "correction": "nonagésima"
+  },
+  {
+    "typo": "nonagessimo",
+    "correction": "nonagésimo"
+  },
+  {
+    "typo": "nonagéssimo",
+    "correction": "nonagésimo"
+  },
+  {
+    "typo": "nostalgico",
+    "correction": "nostálgico"
+  },
+  {
+    "typo": "nostalgicos",
+    "correction": "nostálgicos"
+  },
+  {
+    "typo": "notávelmente",
+    "correction": "notavelmente"
+  },
+  {
+    "typo": "númerais",
+    "correction": "numerais"
+  },
+  {
+    "typo": "númeral",
+    "correction": "numeral"
+  },
+  {
+    "typo": "número de Avogadro",
+    "correction": "constante de Avogadro"
+  },
+  {
+    "typo": "número de moles",
+    "correction": "quantidade de matéria"
+  },
+  {
+    "typo": "número de mols",
+    "correction": "quantidade de matéria"
+  },
+  {
+    "typo": "numero",
+    "correction": "número"
+  },
+  {
+    "typo": "numeros",
+    "correction": "números"
+  },
+  {
+    "typo": "numismatica",
+    "correction": "numismática"
+  },
+  {
+    "typo": "numismatico",
+    "correction": "numismático"
+  },
+  {
+    "typo": "núvem",
+    "correction": "nuvem"
+  },
+  {
+    "typo": "núvens",
+    "correction": "nuvens"
+  },
+  {
+    "typo": "o síndrome",
+    "correction": "a síndrome"
+  },
+  {
+    "typo": "obrigatoria",
+    "correction": "obrigatória"
+  },
+  {
+    "typo": "obrigatóriamente",
+    "correction": "obrigatoriamente"
+  },
+  {
+    "typo": "obrigatorias",
+    "correction": "obrigatórias"
+  },
+  {
+    "typo": "obrigatorio",
+    "correction": "obrigatório"
+  },
+  {
+    "typo": "obrigatorios",
+    "correction": "obrigatórios"
+  },
+  {
+    "typo": "obsecado",
+    "correction": "obcecado"
+  },
+  {
+    "typo": "obseção",
+    "correction": "obsessão"
+  },
+  {
+    "typo": "obssessão",
+    "correction": "obsessão"
+  },
+  {
+    "typo": "obtem",
+    "correction": "obtém, obtêm"
+  },
+  {
+    "typo": "obteram",
+    "correction": "obtiveram"
+  },
+  {
+    "typo": "obteu",
+    "correction": "obteve"
+  },
+  {
+    "typo": "óbviamente",
+    "correction": "obviamente"
+  },
+  {
+    "typo": "ºC",
+    "correction": "°C"
+  },
+  {
+    "typo": "ocoreu",
+    "correction": "ocorreu"
+  },
+  {
+    "typo": "odio",
+    "correction": "ódio"
+  },
+  {
+    "typo": "ºF",
+    "correction": "°F"
+  },
+  {
+    "typo": "oficilamente",
+    "correction": "oficialmente"
+  },
+  {
+    "typo": "oje",
+    "correction": "hoje"
+  },
+  {
+    "typo": "Olímpiada",
+    "correction": "Olimpíada"
+  },
+  {
+    "typo": "Olímpiadas",
+    "correction": "Olimpíadas"
+  },
+  {
+    "typo": "olimpico",
+    "correction": "olímpico"
+  },
+  {
+    "typo": "olimpicos",
+    "correction": "olímpicos"
+  },
+  {
+    "typo": "omem",
+    "correction": "homem"
+  },
+  {
+    "typo": "optima",
+    "correction": "óptima, ótima"
+  },
+  {
+    "typo": "optimo",
+    "correction": "óptimo, ótimo"
+  },
+  {
+    "typo": "opurtunidade",
+    "correction": "oportunidade"
+  },
+  {
+    "typo": "orgao",
+    "correction": "órgão"
+  },
+  {
+    "typo": "orgão",
+    "correction": "órgão"
+  },
+  {
+    "typo": "orgaos",
+    "correction": "órgãos"
+  },
+  {
+    "typo": "orgãos",
+    "correction": "órgãos"
+  },
+  {
+    "typo": "orta",
+    "correction": "horta"
+  },
+  {
+    "typo": "os seu",
+    "correction": "os seus"
+  },
+  {
+    "typo": "otima",
+    "correction": "ótima, óptima"
+  },
+  {
+    "typo": "otimisadas",
+    "correction": "otimizadas, optimizadas"
+  },
+  {
+    "typo": "otimo",
+    "correction": "ótimo, óptimo"
+  },
+  {
+    "typo": "oxido-redução",
+    "correction": "oxirredução"
+  },
+  {
+    "typo": "pagaos",
+    "correction": "pagãos"
+  },
+  {
+    "typo": "pagina",
+    "correction": "página"
+  },
+  {
+    "typo": "paises",
+    "correction": "países"
+  },
+  {
+    "typo": "Palacio",
+    "correction": "Palácio"
+  },
+  {
+    "typo": "Palacios",
+    "correction": "Palácios"
+  },
+  {
+    "typo": "paleolitica",
+    "correction": "paleolítica"
+  },
+  {
+    "typo": "Paleolitico",
+    "correction": "Paleolítico"
+  },
+  {
+    "typo": "palvra",
+    "correction": "palavra"
+  },
+  {
+    "typo": "palvras",
+    "correction": "palavras"
+  },
+  {
+    "typo": "papeis",
+    "correction": "papéis"
+  },
+  {
+    "typo": "para mim fazer",
+    "correction": "para eu fazer"
+  },
+  {
+    "typo": "para-quedas",
+    "correction": "paraquedas"
+  },
+  {
+    "typo": "pára-quedas",
+    "correction": "paraquedas"
+  },
+  {
+    "typo": "Paraiba",
+    "correction": "Paraíba"
+  },
+  {
+    "typo": "Paraiso",
+    "correction": "Paraíso"
+  },
+  {
+    "typo": "paraisos",
+    "correction": "paraísos"
+  },
+  {
+    "typo": "paraizo",
+    "correction": "paraíso"
+  },
+  {
+    "typo": "paraízo",
+    "correction": "paraíso"
+  },
+  {
+    "typo": "paraizos",
+    "correction": "paraísos"
+  },
+  {
+    "typo": "paraízos",
+    "correction": "paraísos"
+  },
+  {
+    "typo": "paraliza",
+    "correction": "paralisa"
+  },
+  {
+    "typo": "paralização",
+    "correction": "paralisação"
+  },
+  {
+    "typo": "paralizada",
+    "correction": "paralisada"
+  },
+  {
+    "typo": "paralizado",
+    "correction": "paralisado"
+  },
+  {
+    "typo": "paralizar",
+    "correction": "paralisar"
+  },
+  {
+    "typo": "paroco",
+    "correction": "pároco"
+  },
+  {
+    "typo": "parocos",
+    "correction": "párocos"
+  },
+  {
+    "typo": "partipação",
+    "correction": "participação"
+  },
+  {
+    "typo": "pascais",
+    "correction": "pascals"
+  },
+  {
+    "typo": "Patria",
+    "correction": "Pátria"
+  },
+  {
+    "typo": "Paúl",
+    "correction": "Paul"
+  },
+  {
+    "typo": "Paulinia",
+    "correction": "Paulínia"
+  },
+  {
+    "typo": "pedigri",
+    "correction": "pedigree"
+  },
+  {
+    "typo": "penta-campeão",
+    "correction": "pentacampeão"
+  },
+  {
+    "typo": "per capta",
+    "correction": "per capita"
+  },
+  {
+    "typo": "percursora",
+    "correction": "precursora"
+  },
+  {
+    "typo": "percursoras",
+    "correction": "precursoras"
+  },
+  {
+    "typo": "percurssão",
+    "correction": "percussão"
+  },
+  {
+    "typo": "perimetro",
+    "correction": "perímetro"
+  },
+  {
+    "typo": "periodo",
+    "correction": "período"
+  },
+  {
+    "typo": "periodos",
+    "correction": "períodos"
+  },
+  {
+    "typo": "periudo",
+    "correction": "período"
+  },
+  {
+    "typo": "períudo",
+    "correction": "período"
+  },
+  {
+    "typo": "periudos",
+    "correction": "períodos"
+  },
+  {
+    "typo": "períudos",
+    "correction": "períodos"
+  },
+  {
+    "typo": "permenor",
+    "correction": "pormenor"
+  },
+  {
+    "typo": "permenores",
+    "correction": "pormenores"
+  },
+  {
+    "typo": "perola",
+    "correction": "pérola"
+  },
+  {
+    "typo": "perolas",
+    "correction": "pérolas"
+  },
+  {
+    "typo": "perpectiva",
+    "correction": "perspectiva"
+  },
+  {
+    "typo": "perpectivas",
+    "correction": "perspectivas"
+  },
+  {
+    "typo": "persoangem",
+    "correction": "personagem"
+  },
+  {
+    "typo": "personagen",
+    "correction": "personagem"
+  },
+  {
+    "typo": "personalisação",
+    "correction": "personalização"
+  },
+  {
+    "typo": "personalisar",
+    "correction": "personalizar"
+  },
+  {
+    "typo": "personalisou",
+    "correction": "personalizou"
+  },
+  {
+    "typo": "pertecente",
+    "correction": "pertencente"
+  },
+  {
+    "typo": "pertecentes",
+    "correction": "pertencentes"
+  },
+  {
+    "typo": "pertuba",
+    "correction": "perturba"
+  },
+  {
+    "typo": "pertubado",
+    "correction": "perturbado"
+  },
+  {
+    "typo": "pertubando",
+    "correction": "perturbando"
+  },
+  {
+    "typo": "pertubar",
+    "correction": "perturbar"
+  },
+  {
+    "typo": "Perú",
+    "correction": "Peru"
+  },
+  {
+    "typo": "peso atômico",
+    "correction": "massa atômica"
+  },
+  {
+    "typo": "peso molecular",
+    "correction": "massa molecular"
+  },
+  {
+    "typo": "pesonagem",
+    "correction": "personagem"
+  },
+  {
+    "typo": "pesquiza",
+    "correction": "pesquisa"
+  },
+  {
+    "typo": "Piaui",
+    "correction": "Piauí"
+  },
+  {
+    "typo": "picômetro",
+    "correction": "picometro"
+  },
+  {
+    "typo": "Pingüim",
+    "correction": "Pinguim"
+  },
+  {
+    "typo": "pingüins",
+    "correction": "pinguins"
+  },
+  {
+    "typo": "plastica",
+    "correction": "plástica"
+  },
+  {
+    "typo": "plásticamente",
+    "correction": "plasticamente"
+  },
+  {
+    "typo": "plasticas",
+    "correction": "plásticas"
+  },
+  {
+    "typo": "plastico",
+    "correction": "plástico"
+  },
+  {
+    "typo": "plasticos",
+    "correction": "plásticos"
+  },
+  {
+    "typo": "poblema",
+    "correction": "problema"
+  },
+  {
+    "typo": "pobrema",
+    "correction": "problema"
+  },
+  {
+    "typo": "pocuo",
+    "correction": "pouco"
+  },
+  {
+    "typo": "poderam",
+    "correction": "puderam"
+  },
+  {
+    "typo": "podesse",
+    "correction": "pudesse"
+  },
+  {
+    "typo": "podessem",
+    "correction": "pudessem"
+  },
+  {
+    "typo": "politica",
+    "correction": "política"
+  },
+  {
+    "typo": "politicas",
+    "correction": "políticas"
+  },
+  {
+    "typo": "politico",
+    "correction": "político"
+  },
+  {
+    "typo": "politicos",
+    "correction": "políticos"
+  },
+  {
+    "typo": "poluicao",
+    "correction": "poluição"
+  },
+  {
+    "typo": "ponteagudas",
+    "correction": "pontiagudas"
+  },
+  {
+    "typo": "porisso",
+    "correction": "por isso"
+  },
+  {
+    "typo": "Portugual",
+    "correction": "Portugal"
+  },
+  {
+    "typo": "posivel",
+    "correction": "possível"
+  },
+  {
+    "typo": "possiveis",
+    "correction": "possíveis"
+  },
+  {
+    "typo": "possivéis",
+    "correction": "possíveis"
+  },
+  {
+    "typo": "possivel",
+    "correction": "possível"
+  },
+  {
+    "typo": "possivél",
+    "correction": "possível"
+  },
+  {
+    "typo": "possue",
+    "correction": "possui"
+  },
+  {
+    "typo": "possuia",
+    "correction": "possuía"
+  },
+  {
+    "typo": "pq",
+    "correction": "porque,porquê,por que,por quê"
+  },
+  {
+    "typo": "pq? ",
+    "correction": "por que?"
+  },
+  {
+    "typo": "pra",
+    "correction": "para"
+  },
+  {
+    "typo": "praca",
+    "correction": "praça"
+  },
+  {
+    "typo": "práticamente",
+    "correction": "praticamente"
+  },
+  {
+    "typo": "preciza",
+    "correction": "precisa"
+  },
+  {
+    "typo": "precizam",
+    "correction": "precisam"
+  },
+  {
+    "typo": "precurssora",
+    "correction": "precursora"
+  },
+  {
+    "typo": "prefêrencias",
+    "correction": "preferências"
+  },
+  {
+    "typo": "prejuizo",
+    "correction": "prejuízo"
+  },
+  {
+    "typo": "prejuizos",
+    "correction": "prejuízos"
+  },
+  {
+    "typo": "prescisa",
+    "correction": "precisa"
+  },
+  {
+    "typo": "presonagem",
+    "correction": "personagem"
+  },
+  {
+    "typo": "prespectiva",
+    "correction": "perspectiva"
+  },
+  {
+    "typo": "prestaçãões",
+    "correction": "prestações"
+  },
+  {
+    "typo": "pretenção",
+    "correction": "pretensão"
+  },
+  {
+    "typo": "pretencioso",
+    "correction": "pretensioso"
+  },
+  {
+    "typo": "pretenssão",
+    "correction": "pretensão"
+  },
+  {
+    "typo": "previlegio",
+    "correction": "privilégio"
+  },
+  {
+    "typo": "previlégio",
+    "correction": "privilégio"
+  },
+  {
+    "typo": "previlegios",
+    "correction": "privilégios"
+  },
+  {
+    "typo": "previlégios",
+    "correction": "privilégios"
+  },
+  {
+    "typo": "previnir",
+    "correction": "prevenir"
+  },
+  {
+    "typo": "pricipais",
+    "correction": "principais"
+  },
+  {
+    "typo": "pricipal",
+    "correction": "principal"
+  },
+  {
+    "typo": "primaria",
+    "correction": "primária"
+  },
+  {
+    "typo": "primarias",
+    "correction": "primárias"
+  },
+  {
+    "typo": "primario",
+    "correction": "primário"
+  },
+  {
+    "typo": "primarios",
+    "correction": "primários"
+  },
+  {
+    "typo": "primeiro ministro",
+    "correction": "primeiro-ministro"
+  },
+  {
+    "typo": "principalemente",
+    "correction": "principalmente"
+  },
+  {
+    "typo": "princípalmente",
+    "correction": "principalmente"
+  },
+  {
+    "typo": "príncipalmente",
+    "correction": "principalmente"
+  },
+  {
+    "typo": "principamente",
+    "correction": "principalmente"
+  },
+  {
+    "typo": "Principe",
+    "correction": "Príncipe"
+  },
+  {
+    "typo": "Princípe",
+    "correction": "Príncipe"
+  },
+  {
+    "typo": "principes",
+    "correction": "príncipes"
+  },
+  {
+    "typo": "princípes",
+    "correction": "príncipes"
+  },
+  {
+    "typo": "principio",
+    "correction": "princípio"
+  },
+  {
+    "typo": "príncipio",
+    "correction": "princípio"
+  },
+  {
+    "typo": "principios",
+    "correction": "princípios"
+  },
+  {
+    "typo": "príncipios",
+    "correction": "princípios"
+  },
+  {
+    "typo": "principlamente",
+    "correction": "principalmente"
+  },
+  {
+    "typo": "prisao",
+    "correction": "prisão"
+  },
+  {
+    "typo": "prisoes",
+    "correction": "prisões"
+  },
+  {
+    "typo": "privatizaçao",
+    "correction": "privatização"
+  },
+  {
+    "typo": "privilegio",
+    "correction": "privilégio"
+  },
+  {
+    "typo": "privilegios",
+    "correction": "privilégios"
+  },
+  {
+    "typo": "proceço",
+    "correction": "processo"
+  },
+  {
+    "typo": "proceços",
+    "correction": "processos"
+  },
+  {
+    "typo": "proceso",
+    "correction": "processo"
+  },
+  {
+    "typo": "procesos",
+    "correction": "processos"
+  },
+  {
+    "typo": "producao",
+    "correction": "produção"
+  },
+  {
+    "typo": "progama",
+    "correction": "programa"
+  },
+  {
+    "typo": "progamador",
+    "correction": "programador"
+  },
+  {
+    "typo": "progamas",
+    "correction": "programas"
+  },
+  {
+    "typo": "proiba",
+    "correction": "proíba"
+  },
+  {
+    "typo": "proibam",
+    "correction": "proíbam"
+  },
+  {
+    "typo": "proibe",
+    "correction": "proíbe"
+  },
+  {
+    "typo": "proibem",
+    "correction": "proíbem"
+  },
+  {
+    "typo": "proíbido",
+    "correction": "proibido"
+  },
+  {
+    "typo": "propia",
+    "correction": "própria"
+  },
+  {
+    "typo": "própia",
+    "correction": "própria"
+  },
+  {
+    "typo": "propias",
+    "correction": "próprias"
+  },
+  {
+    "typo": "própias",
+    "correction": "próprias"
+  },
+  {
+    "typo": "propiedade",
+    "correction": "propriedade"
+  },
+  {
+    "typo": "propiedades",
+    "correction": "propriedades"
+  },
+  {
+    "typo": "propio",
+    "correction": "próprio"
+  },
+  {
+    "typo": "própio",
+    "correction": "próprio"
+  },
+  {
+    "typo": "propios",
+    "correction": "próprios"
+  },
+  {
+    "typo": "própios",
+    "correction": "próprios"
+  },
+  {
+    "typo": "proposito",
+    "correction": "propósito"
+  },
+  {
+    "typo": "proprietario",
+    "correction": "propietário"
+  },
+  {
+    "typo": "prosceço",
+    "correction": "processo"
+  },
+  {
+    "typo": "prosceços",
+    "correction": "processos"
+  },
+  {
+    "typo": "prosceso",
+    "correction": "processo"
+  },
+  {
+    "typo": "proscesos",
+    "correction": "processos"
+  },
+  {
+    "typo": "proseço",
+    "correction": "processo"
+  },
+  {
+    "typo": "proseços",
+    "correction": "processos"
+  },
+  {
+    "typo": "prosseço",
+    "correction": "processo"
+  },
+  {
+    "typo": "prosseços",
+    "correction": "processos"
+  },
+  {
+    "typo": "proteina",
+    "correction": "proteína"
+  },
+  {
+    "typo": "proteinas",
+    "correction": "proteínas"
+  },
+  {
+    "typo": "protejida",
+    "correction": "protegida"
+  },
+  {
+    "typo": "protejidas",
+    "correction": "protegidas"
+  },
+  {
+    "typo": "protejido",
+    "correction": "protegido"
+  },
+  {
+    "typo": "protejidos",
+    "correction": "protegidos"
+  },
+  {
+    "typo": "prototipo",
+    "correction": "protótipo"
+  },
+  {
+    "typo": "prototipos",
+    "correction": "protótipos"
+  },
+  {
+    "typo": "provávelmente",
+    "correction": "provavelmente"
+  },
+  {
+    "typo": "provincia",
+    "correction": "província"
+  },
+  {
+    "typo": "Provincias",
+    "correction": "Províncias"
+  },
+  {
+    "typo": "proxima",
+    "correction": "próxima"
+  },
+  {
+    "typo": "proximas",
+    "correction": "próximas"
+  },
+  {
+    "typo": "proximo",
+    "correction": "próximo"
+  },
+  {
+    "typo": "proximos",
+    "correction": "próximos"
+  },
+  {
+    "typo": "pseudo-ciência",
+    "correction": "pseudociência"
+  },
+  {
+    "typo": "psiquico",
+    "correction": "psíquico"
+  },
+  {
+    "typo": "publico",
+    "correction": "público"
+  },
+  {
+    "typo": "publicos",
+    "correction": "públicos"
+  },
+  {
+    "typo": "qeu",
+    "correction": "que"
+  },
+  {
+    "typo": "quandos",
+    "correction": "quando"
+  },
+  {
+    "typo": "questao",
+    "correction": "questão"
+  },
+  {
+    "typo": "quilómetro",
+    "correction": "quilômetro"
+  },
+  {
+    "typo": "quilometro",
+    "correction": "quilómetro, quilômetro"
+  },
+  {
+    "typo": "quilometros",
+    "correction": "quilómetros, quilômetros"
+  },
+  {
+    "typo": "quimica",
+    "correction": "química"
+  },
+  {
+    "typo": "quimicas",
+    "correction": "químicas"
+  },
+  {
+    "typo": "quimico",
+    "correction": "químico"
+  },
+  {
+    "typo": "quimicos",
+    "correction": "químicos"
+  },
+  {
+    "typo": "quizer",
+    "correction": "quiser"
+  },
+  {
+    "typo": "quizeram",
+    "correction": "quiseram"
+  },
+  {
+    "typo": "quizerem",
+    "correction": "quiserem"
+  },
+  {
+    "typo": "quizeres",
+    "correction": "quiseres"
+  },
+  {
+    "typo": "quizesse",
+    "correction": "quisesse"
+  },
+  {
+    "typo": "quizessem",
+    "correction": "quisessem"
+  },
+  {
+    "typo": "radiaçao",
+    "correction": "radiação"
+  },
+  {
+    "typo": "radio",
+    "correction": "rádio"
+  },
+  {
+    "typo": "raíz",
+    "correction": "raiz"
+  },
+  {
+    "typo": "Raizes",
+    "correction": "Raízes"
+  },
+  {
+    "typo": "rarissimo",
+    "correction": "raríssimo"
+  },
+  {
+    "typo": "rarissimos",
+    "correction": "raríssimos"
+  },
+  {
+    "typo": "razao",
+    "correction": "razão"
+  },
+  {
+    "typo": "razoes",
+    "correction": "razões"
+  },
+  {
+    "typo": "re-escrever",
+    "correction": "reescrever"
+  },
+  {
+    "typo": "récorde",
+    "correction": "recorde"
+  },
+  {
+    "typo": "rectaguarda",
+    "correction": "retaguarda"
+  },
+  {
+    "typo": "reestabelecer",
+    "correction": "restabelecer"
+  },
+  {
+    "typo": "reestabeleceu",
+    "correction": "restabeleceu"
+  },
+  {
+    "typo": "reestabelecida",
+    "correction": "restabelecida"
+  },
+  {
+    "typo": "reestabelecidas",
+    "correction": "restabelecidas"
+  },
+  {
+    "typo": "reestabelecido",
+    "correction": "restabelecido"
+  },
+  {
+    "typo": "reestabelecimento",
+    "correction": "restabelecimento"
+  },
+  {
+    "typo": "referencia",
+    "correction": "referência"
+  },
+  {
+    "typo": "referencias",
+    "correction": "referências"
+  },
+  {
+    "typo": "reibi",
+    "correction": "râguebi"
+  },
+  {
+    "typo": "reinterar",
+    "correction": "reiterar"
+  },
+  {
+    "typo": "reinvidicação",
+    "correction": "reivindicação"
+  },
+  {
+    "typo": "reinvidicar",
+    "correction": "reivindicar"
+  },
+  {
+    "typo": "reinvindicação",
+    "correction": "reivindicação"
+  },
+  {
+    "typo": "relidade",
+    "correction": "realidade"
+  },
+  {
+    "typo": "relogio",
+    "correction": "relógio"
+  },
+  {
+    "typo": "relogios",
+    "correction": "relógios"
+  },
+  {
+    "typo": "remanecentes",
+    "correction": "remanescentes"
+  },
+  {
+    "typo": "renovaveis",
+    "correction": "renováveis"
+  },
+  {
+    "typo": "repercução",
+    "correction": "repercussão"
+  },
+  {
+    "typo": "repercursão",
+    "correction": "repercussão"
+  },
+  {
+    "typo": "repercurssão",
+    "correction": "repercussão"
+  },
+  {
+    "typo": "repertorio",
+    "correction": "repertório"
+  },
+  {
+    "typo": "repertorios",
+    "correction": "repertórios"
+  },
+  {
+    "typo": "reportorio",
+    "correction": "reportório"
+  },
+  {
+    "typo": "reportorios",
+    "correction": "reportórios"
+  },
+  {
+    "typo": "Republica",
+    "correction": "República"
+  },
+  {
+    "typo": "republicas",
+    "correction": "repúblicas"
+  },
+  {
+    "typo": "requesito",
+    "correction": "requisito"
+  },
+  {
+    "typo": "requesitos",
+    "correction": "requisitos"
+  },
+  {
+    "typo": "requis",
+    "correction": "requereu"
+  },
+  {
+    "typo": "residencia",
+    "correction": "residência"
+  },
+  {
+    "typo": "responsaveis",
+    "correction": "responsáveis"
+  },
+  {
+    "typo": "responsavel",
+    "correction": "responsável"
+  },
+  {
+    "typo": "respresentação",
+    "correction": "representação"
+  },
+  {
+    "typo": "ressucita",
+    "correction": "ressuscita"
+  },
+  {
+    "typo": "ressucitado",
+    "correction": "ressuscitado"
+  },
+  {
+    "typo": "ressucitar",
+    "correction": "ressuscitar"
+  },
+  {
+    "typo": "ressucitaram",
+    "correction": "ressuscitaram"
+  },
+  {
+    "typo": "ressucitou",
+    "correction": "ressuscitou"
+  },
+  {
+    "typo": "ressussitado",
+    "correction": "ressuscitado"
+  },
+  {
+    "typo": "ressussitar",
+    "correction": "ressuscitar"
+  },
+  {
+    "typo": "retem",
+    "correction": "retém, retêm"
+  },
+  {
+    "typo": "reteram",
+    "correction": "retiveram"
+  },
+  {
+    "typo": "reteu",
+    "correction": "reteve"
+  },
+  {
+    "typo": "reune",
+    "correction": "reúne"
+  },
+  {
+    "typo": "reunem",
+    "correction": "reúnem"
+  },
+  {
+    "typo": "reuniao",
+    "correction": "reunião"
+  },
+  {
+    "typo": "reunioes",
+    "correction": "reuniões"
+  },
+  {
+    "typo": "reuso",
+    "correction": " reúso"
+  },
+  {
+    "typo": "riquissimo",
+    "correction": "riquíssimo"
+  },
+  {
+    "typo": "riquissimos",
+    "correction": "riquíssimos"
+  },
+  {
+    "typo": "ritimo",
+    "correction": "ritmo"
+  },
+  {
+    "typo": "rítimo",
+    "correction": "ritmo"
+  },
+  {
+    "typo": "rítimos",
+    "correction": "ritmos"
+  },
+  {
+    "typo": "rítmo",
+    "correction": "ritmo"
+  },
+  {
+    "typo": "rítmos",
+    "correction": "ritmos"
+  },
+  {
+    "typo": "ritualistico",
+    "correction": "ritualístico"
+  },
+  {
+    "typo": "Romantica",
+    "correction": "Romântica"
+  },
+  {
+    "typo": "romantico",
+    "correction": "romântico"
+  },
+  {
+    "typo": "ropa",
+    "correction": "roupa"
+  },
+  {
+    "typo": "Rosa dos Ventos",
+    "correction": "Rosa-dos-ventos"
+  },
+  {
+    "typo": "RPG's",
+    "correction": "RPGs"
+  },
+  {
+    "typo": "rúbrica",
+    "correction": "rubrica"
+  },
+  {
+    "typo": "rúbricas",
+    "correction": "rubricas"
+  },
+  {
+    "typo": "rúpia",
+    "correction": "rupia"
+  },
+  {
+    "typo": "sacerdocio",
+    "correction": "sacerdócio"
+  },
+  {
+    "typo": "sacrificio",
+    "correction": "sacrifício"
+  },
+  {
+    "typo": "saida",
+    "correction": "saída"
+  },
+  {
+    "typo": "saidas",
+    "correction": "saídas"
+  },
+  {
+    "typo": "saiem",
+    "correction": "saem"
+  },
+  {
+    "typo": "saira",
+    "correction": "saíra, sairá"
+  },
+  {
+    "typo": "sairam",
+    "correction": "saíram"
+  },
+  {
+    "typo": "Santuario",
+    "correction": "Santuário"
+  },
+  {
+    "typo": "santuarios",
+    "correction": "santuários"
+  },
+  {
+    "typo": "sao",
+    "correction": "são"
+  },
+  {
+    "typo": "Sâo",
+    "correction": "São"
+  },
+  {
+    "typo": "saudaveis",
+    "correction": "saudáveis"
+  },
+  {
+    "typo": "saudavel",
+    "correction": "saudável"
+  },
+  {
+    "typo": "saude",
+    "correction": "saúde"
+  },
+  {
+    "typo": "screenshot",
+    "correction": "captura de ecrã"
+  },
+  {
+    "typo": "séc. I",
+    "correction": "século I"
+  },
+  {
+    "typo": "séc. II",
+    "correction": "século II"
+  },
+  {
+    "typo": "séc. III",
+    "correction": "século III"
+  },
+  {
+    "typo": "séc. IV",
+    "correction": "século IV"
+  },
+  {
+    "typo": "séc. IX",
+    "correction": "século IX"
+  },
+  {
+    "typo": "séc. V",
+    "correction": "século V"
+  },
+  {
+    "typo": "séc. VI",
+    "correction": "século VI"
+  },
+  {
+    "typo": "séc. VII",
+    "correction": "século VII"
+  },
+  {
+    "typo": "séc. VIII",
+    "correction": "século VIII"
+  },
+  {
+    "typo": "séc. X",
+    "correction": "século X"
+  },
+  {
+    "typo": "séc. XI",
+    "correction": "século XI"
+  },
+  {
+    "typo": "séc. XII",
+    "correction": "século XII"
+  },
+  {
+    "typo": "séc. XIII",
+    "correction": "século XIII"
+  },
+  {
+    "typo": "sec. XIV",
+    "correction": "século XIV"
+  },
+  {
+    "typo": "séc. XIV",
+    "correction": "século XIV"
+  },
+  {
+    "typo": "sec. XIX",
+    "correction": "século XIX"
+  },
+  {
+    "typo": "séc. XIX",
+    "correction": "século XIX"
+  },
+  {
+    "typo": "séc. XV",
+    "correction": "século XV"
+  },
+  {
+    "typo": "sec. XVI",
+    "correction": "século XVI"
+  },
+  {
+    "typo": "séc. XVI",
+    "correction": "século XVI"
+  },
+  {
+    "typo": "sec. XVII",
+    "correction": "século XVII"
+  },
+  {
+    "typo": "séc. XVII",
+    "correction": "século XVII"
+  },
+  {
+    "typo": "sec. XVIII",
+    "correction": "século XVIII"
+  },
+  {
+    "typo": "séc. XVIII",
+    "correction": "século XVIII"
+  },
+  {
+    "typo": "sec. XX",
+    "correction": "século XX"
+  },
+  {
+    "typo": "séc. XX",
+    "correction": "século XX"
+  },
+  {
+    "typo": "séc. XXI",
+    "correction": "século XXI"
+  },
+  {
+    "typo": "séc.XIX",
+    "correction": "século XIX"
+  },
+  {
+    "typo": "séc.XVII",
+    "correction": "século XVII"
+  },
+  {
+    "typo": "séc.XVIII",
+    "correction": "século XVIII"
+  },
+  {
+    "typo": "sec.XX",
+    "correction": "século XX"
+  },
+  {
+    "typo": "séc.XX",
+    "correction": "século XX"
+  },
+  {
+    "typo": "secudaria",
+    "correction": "secudária"
+  },
+  {
+    "typo": "secudarias",
+    "correction": "secudárias"
+  },
+  {
+    "typo": "secudario",
+    "correction": "secudário"
+  },
+  {
+    "typo": "secudarios",
+    "correction": "secudários"
+  },
+  {
+    "typo": "século 1",
+    "correction": "século I"
+  },
+  {
+    "typo": "século 10",
+    "correction": "século X"
+  },
+  {
+    "typo": "século 11",
+    "correction": "século XI"
+  },
+  {
+    "typo": "século 12",
+    "correction": "século XII"
+  },
+  {
+    "typo": "século 13",
+    "correction": "século XIII"
+  },
+  {
+    "typo": "século 14",
+    "correction": "século XIV"
+  },
+  {
+    "typo": "século 15",
+    "correction": "século XV"
+  },
+  {
+    "typo": "século 16",
+    "correction": "século XVI"
+  },
+  {
+    "typo": "século 17",
+    "correction": "século XVII"
+  },
+  {
+    "typo": "século 18",
+    "correction": "século XVIII"
+  },
+  {
+    "typo": "seculo 19",
+    "correction": "século XIX"
+  },
+  {
+    "typo": "século 19",
+    "correction": "século XIX"
+  },
+  {
+    "typo": "século 2",
+    "correction": "século II"
+  },
+  {
+    "typo": "seculo 20",
+    "correction": "século XX"
+  },
+  {
+    "typo": "século 20",
+    "correction": "século XX"
+  },
+  {
+    "typo": "seculo 21",
+    "correction": "século XXI"
+  },
+  {
+    "typo": "século 21",
+    "correction": "século XXI"
+  },
+  {
+    "typo": "século 3",
+    "correction": "século III"
+  },
+  {
+    "typo": "século 4",
+    "correction": "século IV"
+  },
+  {
+    "typo": "século 5",
+    "correction": "século V"
+  },
+  {
+    "typo": "século 6",
+    "correction": "século VI"
+  },
+  {
+    "typo": "século 7",
+    "correction": "século VII"
+  },
+  {
+    "typo": "século 8",
+    "correction": "século VIII"
+  },
+  {
+    "typo": "século 9",
+    "correction": "século IX"
+  },
+  {
+    "typo": "seculo",
+    "correction": "século"
+  },
+  {
+    "typo": "seculos",
+    "correction": "séculos"
+  },
+  {
+    "typo": "secundaria",
+    "correction": "secundária"
+  },
+  {
+    "typo": "secundarias",
+    "correction": "secundárias"
+  },
+  {
+    "typo": "secundario",
+    "correction": "secundário"
+  },
+  {
+    "typo": "secundarios",
+    "correction": "secundários"
+  },
+  {
+    "typo": "seguite",
+    "correction": "seguinte"
+  },
+  {
+    "typo": "seguites",
+    "correction": "seguintes"
+  },
+  {
+    "typo": "seissentos",
+    "correction": "seiscentos"
+  },
+  {
+    "typo": "seje",
+    "correction": "seja"
+  },
+  {
+    "typo": "sejem",
+    "correction": "sejam"
+  },
+  {
+    "typo": "semaforo",
+    "correction": "semáforo"
+  },
+  {
+    "typo": "semaforos",
+    "correction": "semáforos"
+  },
+  {
+    "typo": "semanario",
+    "correction": "semanário"
+  },
+  {
+    "typo": "semi círculo",
+    "correction": "semicírculo"
+  },
+  {
+    "typo": "semi círculos",
+    "correction": "semicírculos"
+  },
+  {
+    "typo": "semi finais",
+    "correction": "semifinais"
+  },
+  {
+    "typo": "semi final",
+    "correction": "semifinal"
+  },
+  {
+    "typo": "semi precioso",
+    "correction": "semiprecioso"
+  },
+  {
+    "typo": "semi preciosos",
+    "correction": "semipreciosos"
+  },
+  {
+    "typo": "semi presidencialismos",
+    "correction": "semipresidencialismos"
+  },
+  {
+    "typo": "semi presidencialistas",
+    "correction": "semipresidencialistas"
+  },
+  {
+    "typo": "semi-círculo",
+    "correction": "semicírculo"
+  },
+  {
+    "typo": "semi-círculos",
+    "correction": "semicírculos"
+  },
+  {
+    "typo": "semi-finais",
+    "correction": "semifinais"
+  },
+  {
+    "typo": "semi-final",
+    "correction": "semifinal"
+  },
+  {
+    "typo": "semi-precioso",
+    "correction": "semiprecioso"
+  },
+  {
+    "typo": "semi-preciosos",
+    "correction": "semipreciosos"
+  },
+  {
+    "typo": "Semi-presidencialismo",
+    "correction": "Semipresidencialismo"
+  },
+  {
+    "typo": "semi-presidencialismos",
+    "correction": "semipresidencialismos"
+  },
+  {
+    "typo": "semi-presidencialista",
+    "correction": "semipresidencialista"
+  },
+  {
+    "typo": "semi-presidencialistas",
+    "correction": "semipresidencialistas"
+  },
+  {
+    "typo": "Séniores",
+    "correction": "Seniores"
+  },
+  {
+    "typo": "sensiveis",
+    "correction": "sensíveis"
+  },
+  {
+    "typo": "sensivel",
+    "correction": "sensível"
+  },
+  {
+    "typo": "separaçoes",
+    "correction": "separações"
+  },
+  {
+    "typo": "serie",
+    "correction": "série"
+  },
+  {
+    "typo": "serio",
+    "correction": "sério, série, seriado"
+  },
+  {
+    "typo": "setessentos",
+    "correction": "setecentos"
+  },
+  {
+    "typo": "siclano",
+    "correction": "sicrano"
+  },
+  {
+    "typo": "siginifica",
+    "correction": "significa"
+  },
+  {
+    "typo": "siginificado",
+    "correction": "significado"
+  },
+  {
+    "typo": "siguinifica",
+    "correction": "significa"
+  },
+  {
+    "typo": "simbolo",
+    "correction": "símbolo"
+  },
+  {
+    "typo": "simbolos",
+    "correction": "símbolos"
+  },
+  {
+    "typo": "simplemente",
+    "correction": "simplesmente"
+  },
+  {
+    "typo": "Sindrome",
+    "correction": "Síndrome"
+  },
+  {
+    "typo": "sinonimo",
+    "correction": "sinónimo"
+  },
+  {
+    "typo": "sinonimo",
+    "correction": "sinónimo, sinônimo"
+  },
+  {
+    "typo": "sinonimos",
+    "correction": "sinónimos"
+  },
+  {
+    "typo": "Sinópse",
+    "correction": "Sinopse"
+  },
+  {
+    "typo": "síntaze",
+    "correction": "síntaxe"
+  },
+  {
+    "typo": "sistemico",
+    "correction": "sistémico"
+  },
+  {
+    "typo": "sobrevivencia",
+    "correction": "sobrevivência"
+  },
+  {
+    "typo": "socio",
+    "correction": "sócio"
+  },
+  {
+    "typo": "sócio-culturais",
+    "correction": "socioculturais"
+  },
+  {
+    "typo": "sócio-cultural",
+    "correction": "sociocultural"
+  },
+  {
+    "typo": "socios",
+    "correction": "sócios"
+  },
+  {
+    "typo": "sombrancelha",
+    "correction": "sobrancelha"
+  },
+  {
+    "typo": "sotão",
+    "correction": "sótão"
+  },
+  {
+    "typo": "subdivisáo",
+    "correction": "subdivisão"
+  },
+  {
+    "typo": "subjulgar",
+    "correction": "subjugar"
+  },
+  {
+    "typo": "substituida",
+    "correction": "substituída"
+  },
+  {
+    "typo": "substituidas",
+    "correction": "substituídas"
+  },
+  {
+    "typo": "Substituido",
+    "correction": "Substituído"
+  },
+  {
+    "typo": "substituidos",
+    "correction": "substituídos"
+  },
+  {
+    "typo": "substituíndo",
+    "correction": "substituindo"
+  },
+  {
+    "typo": "successo",
+    "correction": "sucesso"
+  },
+  {
+    "typo": "successos",
+    "correction": "sucessos"
+  },
+  {
+    "typo": "suceso",
+    "correction": "sucesso"
+  },
+  {
+    "typo": "suçeso",
+    "correction": "sucesso"
+  },
+  {
+    "typo": "sucesos",
+    "correction": "sucessos"
+  },
+  {
+    "typo": "suçesos",
+    "correction": "sucessos"
+  },
+  {
+    "typo": "suçesso",
+    "correction": "sucesso"
+  },
+  {
+    "typo": "suçessos",
+    "correction": "sucessos"
+  },
+  {
+    "typo": "suéca",
+    "correction": "sueca"
+  },
+  {
+    "typo": "suéco",
+    "correction": "sueco"
+  },
+  {
+    "typo": "Suiça",
+    "correction": "Suíça"
+  },
+  {
+    "typo": "suícidio",
+    "correction": "suicídio"
+  },
+  {
+    "typo": "suiço",
+    "correction": "suíço"
+  },
+  {
+    "typo": "suino",
+    "correction": "suíno"
+  },
+  {
+    "typo": "sumula",
+    "correction": "súmula"
+  },
+  {
+    "typo": "surgio",
+    "correction": "surgiu"
+  },
+  {
+    "typo": "suseço",
+    "correction": "sucesso"
+  },
+  {
+    "typo": "suseços",
+    "correction": "sucessos"
+  },
+  {
+    "typo": "sUSpEITu ",
+    "correction": "Suspeito"
+  },
+  {
+    "typo": "suspenção",
+    "correction": "suspensão"
+  },
+  {
+    "typo": "susseço",
+    "correction": "sucesso"
+  },
+  {
+    "typo": "susseços",
+    "correction": "sucessos"
+  },
+  {
+    "typo": "sussesso",
+    "correction": "sucesso"
+  },
+  {
+    "typo": "sussessos",
+    "correction": "sucessos"
+  },
+  {
+    "typo": "tabém",
+    "correction": "também"
+  },
+  {
+    "typo": "tambem",
+    "correction": "também"
+  },
+  {
+    "typo": "támbem",
+    "correction": "também"
+  },
+  {
+    "typo": "támbém",
+    "correction": "também"
+  },
+  {
+    "typo": "tao",
+    "correction": "tão"
+  },
+  {
+    "typo": "tb",
+    "correction": "também"
+  },
+  {
+    "typo": "tbm",
+    "correction": "também"
+  },
+  {
+    "typo": "te-lo",
+    "correction": "tê-lo"
+  },
+  {
+    "typo": "tecnica",
+    "correction": "técnica"
+  },
+  {
+    "typo": "tecnico",
+    "correction": "técnico"
+  },
+  {
+    "typo": "tembém",
+    "correction": "também"
+  },
+  {
+    "typo": "têmporo-mandibular",
+    "correction": "temporomandibular"
+  },
+  {
+    "typo": "tendencia",
+    "correction": "tendência"
+  },
+  {
+    "typo": "tendencias",
+    "correction": "tendências"
+  },
+  {
+    "typo": "territorio",
+    "correction": "território"
+  },
+  {
+    "typo": "territorios",
+    "correction": "territórios"
+  },
+  {
+    "typo": "tetra-hidrofurano",
+    "correction": "tetraidrofurano"
+  },
+  {
+    "typo": "tijela",
+    "correction": "tigela"
+  },
+  {
+    "typo": "tils",
+    "correction": "tiles"
+  },
+  {
+    "typo": "tipica",
+    "correction": "típica"
+  },
+  {
+    "typo": "tipicas",
+    "correction": "típicas"
+  },
+  {
+    "typo": "tipico",
+    "correction": "típico"
+  },
+  {
+    "typo": "tipicos",
+    "correction": "típicos"
+  },
+  {
+    "typo": "titulo",
+    "correction": "título"
+  },
+  {
+    "typo": "titulos",
+    "correction": "títulos"
+  },
+  {
+    "typo": "tracao",
+    "correction": "tracção, tração"
+  },
+  {
+    "typo": "tragetoria",
+    "correction": "trajetória"
+  },
+  {
+    "typo": "tragetória",
+    "correction": "trajetória"
+  },
+  {
+    "typo": "tranformação",
+    "correction": "transformação"
+  },
+  {
+    "typo": "tranformações",
+    "correction": "transformações"
+  },
+  {
+    "typo": "tranformado",
+    "correction": "transformado"
+  },
+  {
+    "typo": "tranformar",
+    "correction": "transformar"
+  },
+  {
+    "typo": "tranformou",
+    "correction": "transformou"
+  },
+  {
+    "typo": "transmissiveis",
+    "correction": "transmissíveis"
+  },
+  {
+    "typo": "transmissivel",
+    "correction": "transmissível"
+  },
+  {
+    "typo": "traser",
+    "correction": "trazer"
+  },
+  {
+    "typo": "trasnporta",
+    "correction": "transporta"
+  },
+  {
+    "typo": "trasnporte",
+    "correction": "transporte"
+  },
+  {
+    "typo": "trasnportes",
+    "correction": "transportes"
+  },
+  {
+    "typo": "tratrahidrofurano",
+    "correction": "tetraidrofurano"
+  },
+  {
+    "typo": "trem bala",
+    "correction": "trem-bala"
+  },
+  {
+    "typo": "tres",
+    "correction": "três"
+  },
+  {
+    "typo": "treslagoense",
+    "correction": "três-lagoense"
+  },
+  {
+    "typo": "trez",
+    "correction": "três"
+  },
+  {
+    "typo": "tri-campeão",
+    "correction": "tricampeão"
+  },
+  {
+    "typo": "trovao",
+    "correction": "trovão"
+  },
+  {
+    "typo": "Tupí-guarani",
+    "correction": "Tupi-guarani"
+  },
+  {
+    "typo": "turistica",
+    "correction": "turística"
+  },
+  {
+    "typo": "turisticas",
+    "correction": "turísticas"
+  },
+  {
+    "typo": "turistico",
+    "correction": "turístico"
+  },
+  {
+    "typo": "turisticos",
+    "correction": "turísticos"
+  },
+  {
+    "typo": "u.m.a",
+    "correction": "u"
+  },
+  {
+    "typo": "ultilizada",
+    "correction": "utilizada"
+  },
+  {
+    "typo": "ultilizado",
+    "correction": "utilizado"
+  },
+  {
+    "typo": "ultilizar",
+    "correction": "utilizar"
+  },
+  {
+    "typo": "ultima",
+    "correction": "última"
+  },
+  {
+    "typo": "ultimo",
+    "correction": "último"
+  },
+  {
+    "typo": "ultimos",
+    "correction": "últimos"
+  },
+  {
+    "typo": "ultra-b",
+    "correction": "ultrab"
+  },
+  {
+    "typo": "ultra-c",
+    "correction": "ultrac"
+  },
+  {
+    "typo": "ultra-d",
+    "correction": "ultrad"
+  },
+  {
+    "typo": "ultra-f",
+    "correction": "ultraf"
+  },
+  {
+    "typo": "ultra-l",
+    "correction": "ultral"
+  },
+  {
+    "typo": "ultra-m",
+    "correction": "ultram"
+  },
+  {
+    "typo": "ultra-n",
+    "correction": "ultran"
+  },
+  {
+    "typo": "ultra-p",
+    "correction": "ultrap"
+  },
+  {
+    "typo": "ultra-v",
+    "correction": "ultrav"
+  },
+  {
+    "typo": "ultra-violeta",
+    "correction": "ultravioleta"
+  },
+  {
+    "typo": "um síndrome",
+    "correction": "uma síndrome"
+  },
+  {
+    "typo": "um um",
+    "correction": "um"
+  },
+  {
+    "typo": "úmidade",
+    "correction": "umidade, humidade"
+  },
+  {
+    "typo": "unica",
+    "correction": "única"
+  },
+  {
+    "typo": "unicas",
+    "correction": "únicas"
+  },
+  {
+    "typo": "unico",
+    "correction": "único"
+  },
+  {
+    "typo": "unicos",
+    "correction": "únicos"
+  },
+  {
+    "typo": "univercidade",
+    "correction": "universidade"
+  },
+  {
+    "typo": "univercidades",
+    "correction": "universidades"
+  },
+  {
+    "typo": "universitaria",
+    "correction": "universitária"
+  },
+  {
+    "typo": "universitarias",
+    "correction": "universitárias"
+  },
+  {
+    "typo": "universitario",
+    "correction": "universitário"
+  },
+  {
+    "typo": "universitarios",
+    "correction": "universitários"
+  },
+  {
+    "typo": "uqe",
+    "correction": "que"
+  },
+  {
+    "typo": "usuario",
+    "correction": "usuário, utilizador"
+  },
+  {
+    "typo": "util",
+    "correction": "útil"
+  },
+  {
+    "typo": "utilisador",
+    "correction": "utilizador, usuário"
+  },
+  {
+    "typo": "uzada",
+    "correction": "usada"
+  },
+  {
+    "typo": "uzadas",
+    "correction": "usadas"
+  },
+  {
+    "typo": "uzado",
+    "correction": "usado"
+  },
+  {
+    "typo": "uzados",
+    "correction": "usados"
+  },
+  {
+    "typo": "uzar",
+    "correction": "usar"
+  },
+  {
+    "typo": "uzo",
+    "correction": "uso"
+  },
+  {
+    "typo": "uzou",
+    "correction": "usou"
+  },
+  {
+    "typo": "váriados",
+    "correction": "variados"
+  },
+  {
+    "typo": "varias",
+    "correction": "várias"
+  },
+  {
+    "typo": "varíavel",
+    "correction": "variável"
+  },
+  {
+    "typo": "varios",
+    "correction": "vários"
+  },
+  {
+    "typo": "vasão",
+    "correction": "vazão"
+  },
+  {
+    "typo": "vc ",
+    "correction": "você"
+  },
+  {
+    "typo": "vc",
+    "correction": "você"
+  },
+  {
+    "typo": "veiculo",
+    "correction": "veículo"
+  },
+  {
+    "typo": "veiculos",
+    "correction": "veículos"
+  },
+  {
+    "typo": "verçao",
+    "correction": "versão"
+  },
+  {
+    "typo": "verção",
+    "correction": "versão"
+  },
+  {
+    "typo": "verçoes",
+    "correction": "versões"
+  },
+  {
+    "typo": "verções",
+    "correction": "versões"
+  },
+  {
+    "typo": "ves",
+    "correction": "vez, vês"
+  },
+  {
+    "typo": "veses",
+    "correction": "vezes"
+  },
+  {
+    "typo": "vespera",
+    "correction": "véspera"
+  },
+  {
+    "typo": "vestigio",
+    "correction": "vestígio"
+  },
+  {
+    "typo": "vestigios",
+    "correction": "vestígios"
+  },
+  {
+    "typo": "vez enquando",
+    "correction": "vez em quando"
+  },
+  {
+    "typo": "vezis",
+    "correction": "vezes"
+  },
+  {
+    "typo": "viajem",
+    "correction": "viagem"
+  },
+  {
+    "typo": "viajens",
+    "correction": "viagens"
+  },
+  {
+    "typo": "vice governador",
+    "correction": "vice-governador"
+  },
+  {
+    "typo": "vice governadores",
+    "correction": "vice-governadores"
+  },
+  {
+    "typo": "vice prefeito",
+    "correction": "vice-prefeito"
+  },
+  {
+    "typo": "vice prefeitos",
+    "correction": "vice-prefeitos"
+  },
+  {
+    "typo": "vice presidente",
+    "correction": "vice-presidente"
+  },
+  {
+    "typo": "vice presidentes",
+    "correction": "vice-presidentes"
+  },
+  {
+    "typo": "video game",
+    "correction": "videogame"
+  },
+  {
+    "typo": "video",
+    "correction": "vídeo"
+  },
+  {
+    "typo": "vídeo-clipe",
+    "correction": "videoclipe"
+  },
+  {
+    "typo": "vídeo-clipes",
+    "correction": "videoclipes"
+  },
+  {
+    "typo": "videoclip",
+    "correction": "videoclipe"
+  },
+  {
+    "typo": "vídeoclipe",
+    "correction": "videoclipe"
+  },
+  {
+    "typo": "Vídeoclipes",
+    "correction": "Videoclipes"
+  },
+  {
+    "typo": "vigilancia",
+    "correction": "vigilância"
+  },
+  {
+    "typo": "violencia",
+    "correction": "violência"
+  },
+  {
+    "typo": "viros",
+    "correction": "vírus"
+  },
+  {
+    "typo": "víros",
+    "correction": "vírus"
+  },
+  {
+    "typo": "virus",
+    "correction": "vírus"
+  },
+  {
+    "typo": "virús",
+    "correction": "vírus"
+  },
+  {
+    "typo": "vírús",
+    "correction": "vírus"
+  },
+  {
+    "typo": "vitori@",
+    "correction": "vitória"
+  },
+  {
+    "typo": "vitoria",
+    "correction": "vitória"
+  },
+  {
+    "typo": "vitorias",
+    "correction": "vitórias"
+  },
+  {
+    "typo": "viuv@",
+    "correction": "viúva"
+  },
+  {
+    "typo": "viuva",
+    "correction": "viúva"
+  },
+  {
+    "typo": "vizualiza",
+    "correction": "visualiza"
+  },
+  {
+    "typo": "vizualização",
+    "correction": "visualização"
+  },
+  {
+    "typo": "vizualizar",
+    "correction": "visualizar"
+  },
+  {
+    "typo": "voce-",
+    "correction": "você-"
+  },
+  {
+    "typo": "voce",
+    "correction": "você"
+  },
+  {
+    "typo": "voçe",
+    "correction": "você"
+  },
+  {
+    "typo": "voçê",
+    "correction": "você"
+  },
+  {
+    "typo": "vôo",
+    "correction": "voo"
+  },
+  {
+    "typo": "voôs",
+    "correction": "voos"
+  },
+  {
+    "typo": "vôos",
+    "correction": "voos"
+  },
+  {
+    "typo": "Wikimapa",
+    "correction": "WikiMapia"
+  },
+  {
+    "typo": "xafariz",
+    "correction": "chafariz"
+  },
+  {
+    "typo": "Xuxu",
+    "correction": "Chuchu"
+  },
+  {
+    "typo": "yoga",
+    "correction": "ioga"
+  },
+  {
+    "typo": "yôga",
+    "correction": "ioga"
+  },
+  {
+    "typo": "zoologico",
+    "correction": "zoológico"
+  }
+]

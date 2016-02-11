@@ -1,0 +1,11 @@
+{
+  "requirePaddingNewLinesAfterBlocks": {
+    "allExcept": ["inCallExpressions", "inArrayExpressions", "inProperties"]
+  },
+  "safeContextKeyword": ["that"],
+  "esnext": true,
+  "requireTemplateStrings": true,
+  "requireSpread": true,
+  "disallowTrailingWhitespace": true,
+  "maximumLineLength": 80
+}
