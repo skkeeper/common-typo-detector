@@ -13,7 +13,8 @@ an external file as a source.
 
 ## Install
 
-Will be on NPM soon hopefully. :bowtie:
+Install it globally with with NPM:
+`npm install -g common-typo-detector`
 
 ## Usage
 
@@ -53,8 +54,6 @@ By participating in this project you agree to abide by its terms.
 ## TODO
 
 * add parameter to only check lines that are comments (start with //,*,#, etc)
-
-* if the output line is too long, shorten it
 
 * Organize functions into a lib.js file
 
