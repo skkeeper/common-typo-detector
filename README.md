@@ -41,14 +41,7 @@ possible even when analyzing code.
 
 ### Code of Conduct
 
-While I strongly believe in freedom of expression and in some circumstances
-have called myself a _first amendment absolutist_, this project will not
-be the forum for anything that violates the Contributor Code of Conduct
-document that is included.
-This is a safe place for working, if you want to express yourself in
-a way that offends people, save it for when we have a beer.
-
-Therefore note that this project is released with a Contributor Code of Conduct.
+Note that this project is released with a Contributor Code of Conduct.
 By participating in this project you agree to abide by its terms.
 
 ## TODO
